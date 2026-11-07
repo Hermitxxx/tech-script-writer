@@ -1,4 +1,4 @@
-﻿param(
+param(
     [Parameter(Mandatory=$true)]
     [string]$OutputFile,
     
@@ -60,6 +60,7 @@ foreach ($rawLine in $lines) {
     elseif ($line -match '^[•\*\-]|^\=\>\s*') {
         $cleanText = $line -replace '^[•\*\-\s]+|^\=\>\s*', ''
         $cleanText = [System.Security.SecurityElement]::Escape($cleanText)
+        $cleanText = $cleanText -replace '--', '&#x2014;'
         $bodyXml.AppendLine(@"
   <w:p>
     <w:pPr><w:ind w:left="720"/><w:rPr><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr></w:pPr>
