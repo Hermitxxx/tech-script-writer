@@ -39,7 +39,6 @@ $outStream.Close()
 [System.IO.Compression.ZipFile]::ExtractToDirectory($copyPath, $tempUnpack)
 Remove-Item -Force $copyPath
 
-# Build paragraphs
 $lines = $InputText -split "`r?`n"
 $bodyXml = New-Object System.Text.StringBuilder
 
@@ -47,7 +46,7 @@ foreach ($rawLine in $lines) {
     $line = $rawLine.Trim()
     if (-not $line) { continue }
     
-    # Check if this line is a Step / Solution heading (e.g. STEP 1: ... or SOLUTION 1: ...)
+    # Check if this line is a Step / Solution heading
     if ($line -match '^(STEP|SOLUTION)\s+\d+:' -or ($line -cmatch '^[A-Z0-9\s:_-]{5,}$' -and $line -notmatch '[\.,\?!]$')) {
         $cleanHeading = [System.Security.SecurityElement]::Escape($line)
         $bodyXml.AppendLine(@"
@@ -57,7 +56,7 @@ foreach ($rawLine in $lines) {
   </w:p>
 "@) | Out-Null
     }
-    # Check if this line is a bullet sub-step (starts with bullet, dash, or =>)
+    # Check if this line is a bullet sub-step
     elseif ($line -match '^[•\*\-]|^\=\>\s*') {
         $cleanText = $line -replace '^[•\*\-\s]+|^\=\>\s*', ''
         $cleanText = [System.Security.SecurityElement]::Escape($cleanText)
