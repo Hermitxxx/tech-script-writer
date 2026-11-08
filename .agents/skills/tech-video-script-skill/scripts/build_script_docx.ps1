@@ -39,6 +39,25 @@ $outStream.Close()
 [System.IO.Compression.ZipFile]::ExtractToDirectory($copyPath, $tempUnpack)
 Remove-Item -Force $copyPath
 
+function Convert-MarkdownRuns([string]$text, [string]$sz = "32") {
+    $parts = [regex]::Split($text, '(\*\*.*?\*\*)')
+    $runsXml = New-Object System.Text.StringBuilder
+    foreach ($part in $parts) {
+        if ([string]::IsNullOrEmpty($part)) { continue }
+        if ($part.StartsWith('**') -and $part.EndsWith('**') -and $part.Length -ge 4) {
+            $inner = $part.Substring(2, $part.Length - 4)
+            $escaped = [System.Security.SecurityElement]::Escape($inner)
+            $escaped = $escaped -replace '--', '&#x2014;'
+            $runsXml.Append("`n    <w:r><w:rPr><w:b/><w:bCs/><w:sz w:val=""$sz""/><w:szCs w:val=""$sz""/></w:rPr><w:t xml:space=""preserve"">$escaped</w:t></w:r>") | Out-Null
+        } else {
+            $escaped = [System.Security.SecurityElement]::Escape($part)
+            $escaped = $escaped -replace '--', '&#x2014;'
+            $runsXml.Append("`n    <w:r><w:rPr><w:sz w:val=""$sz""/><w:szCs w:val=""$sz""/></w:rPr><w:t xml:space=""preserve"">$escaped</w:t></w:r>") | Out-Null
+        }
+    }
+    return $runsXml.ToString()
+}
+
 $lines = $InputText -split "`r?`n"
 $bodyXml = New-Object System.Text.StringBuilder
 
@@ -46,9 +65,13 @@ foreach ($rawLine in $lines) {
     $line = $rawLine.Trim()
     if (-not $line) { continue }
     
+    # Strip out any title lines - documents must start directly with the spoken intro
+    if ($line -match '^(Title|TITLE)\s*:') { continue }
+    
     # Check if this line is a Step / Solution heading
     if ($line -match '^(STEP|SOLUTION)\s+\d+:' -or ($line -cmatch '^[A-Z0-9\s:_-]{5,}$' -and $line -notmatch '[\.,\?!]$')) {
-        $cleanHeading = [System.Security.SecurityElement]::Escape($line)
+        $cleanHeading = $line -replace '\*\*', ''
+        $cleanHeading = [System.Security.SecurityElement]::Escape($cleanHeading)
         $bodyXml.AppendLine(@"
   <w:p>
     <w:pPr><w:rPr><w:b/><w:bCs/><w:sz w:val="36"/><w:szCs w:val="36"/></w:rPr></w:pPr>
@@ -59,23 +82,20 @@ foreach ($rawLine in $lines) {
     # Check if this line is a bullet sub-step
     elseif ($line -match '^[•\*\-]|^\=\>\s*') {
         $cleanText = $line -replace '^[•\*\-\s]+|^\=\>\s*', ''
-        $cleanText = [System.Security.SecurityElement]::Escape($cleanText)
-        $cleanText = $cleanText -replace '--', '&#x2014;'
+        $runs = Convert-MarkdownRuns -text $cleanText -sz "32"
         $bodyXml.AppendLine(@"
   <w:p>
     <w:pPr><w:ind w:left="720"/><w:rPr><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr></w:pPr>
-    <w:r><w:rPr><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr><w:t xml:space="preserve">&#x2022;  $cleanText</w:t></w:r>
+    <w:r><w:rPr><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr><w:t xml:space="preserve">&#x2022;  </w:t></w:r>$runs
   </w:p>
 "@) | Out-Null
     }
     # Normal body paragraph
     else {
-        $cleanText = [System.Security.SecurityElement]::Escape($line)
-        $cleanText = $cleanText -replace '--', '&#x2014;'
+        $runs = Convert-MarkdownRuns -text $line -sz "32"
         $bodyXml.AppendLine(@"
   <w:p>
-    <w:pPr><w:rPr><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr></w:pPr>
-    <w:r><w:rPr><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr><w:t>$cleanText</w:t></w:r>
+    <w:pPr><w:rPr><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr></w:pPr>$runs
   </w:p>
 "@) | Out-Null
     }
@@ -99,15 +119,25 @@ $($bodyXml.ToString())
 $utf8NoBom = New-Object System.Text.UTF8Encoding($false)
 [System.IO.File]::WriteAllText("$tempUnpack\word\document.xml", $fullDocXml, $utf8NoBom)
 
+$targetFile = $OutputFile
 if (Test-Path $OutputFile) {
     try {
         Remove-Item -Force $OutputFile -ErrorAction Stop
     } catch {
         Write-Warning "File $OutputFile is locked by Word or another process: $_"
+        Start-Sleep -Milliseconds 500
+        try {
+            Remove-Item -Force $OutputFile -ErrorAction Stop
+        } catch {
+            $parentDir = Split-Path $OutputFile -Parent
+            $baseName = [System.IO.Path]::GetFileNameWithoutExtension($OutputFile)
+            $targetFile = Join-Path $parentDir ($baseName + "_updated.docx")
+            Write-Warning "Cannot overwrite locked file. Saving to $targetFile instead."
+        }
     }
 }
 
-$zipStream = [System.IO.File]::Create($OutputFile)
+$zipStream = [System.IO.File]::Create($targetFile)
 $archive = New-Object System.IO.Compression.ZipArchive($zipStream, [System.IO.Compression.ZipArchiveMode]::Create)
 
 $workDirFull = (Get-Item $tempUnpack).FullName
@@ -119,4 +149,4 @@ $archive.Dispose()
 $zipStream.Dispose()
 Remove-Item -Recurse -Force $tempUnpack
 
-Write-Output "Successfully generated: $OutputFile"
+Write-Output "Successfully generated: $targetFile"
