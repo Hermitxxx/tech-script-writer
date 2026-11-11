@@ -40,20 +40,22 @@ $outStream.Close()
 Remove-Item -Force $copyPath
 
 function Convert-MarkdownRuns([string]$text, [string]$sz = "32") {
-    $parts = [regex]::Split($text, '(\*\*.*?\*\*)')
+    $parts = [regex]::Split($text, '(\*\*.*?\*\*|"[^"\r\n]{2,60}")')
     $runsXml = New-Object System.Text.StringBuilder
     foreach ($part in $parts) {
         if ([string]::IsNullOrEmpty($part)) { continue }
+        $isBold = $false
+        $inner = $part
         if ($part.StartsWith('**') -and $part.EndsWith('**') -and $part.Length -ge 4) {
             $inner = $part.Substring(2, $part.Length - 4)
-            $escaped = [System.Security.SecurityElement]::Escape($inner)
-            $escaped = $escaped -replace '--', '&#x2014;'
-            $runsXml.Append("`n    <w:r><w:rPr><w:b/><w:bCs/><w:sz w:val=""$sz""/><w:szCs w:val=""$sz""/></w:rPr><w:t xml:space=""preserve"">$escaped</w:t></w:r>") | Out-Null
-        } else {
-            $escaped = [System.Security.SecurityElement]::Escape($part)
-            $escaped = $escaped -replace '--', '&#x2014;'
-            $runsXml.Append("`n    <w:r><w:rPr><w:sz w:val=""$sz""/><w:szCs w:val=""$sz""/></w:rPr><w:t xml:space=""preserve"">$escaped</w:t></w:r>") | Out-Null
+            $isBold = $true
+        } elseif ($part.StartsWith('"') -and $part.EndsWith('"') -and $part.Length -ge 3) {
+            $isBold = $true
         }
+        $escaped = [System.Security.SecurityElement]::Escape($inner)
+        $escaped = $escaped -replace '--', '&#x2014;'
+        $bTags = if ($isBold) { "<w:b/><w:bCs/>" } else { "" }
+        $runsXml.Append("`n    <w:r><w:rPr>$bTags<w:sz w:val=""$sz""/><w:szCs w:val=""$sz""/></w:rPr><w:t xml:space=""preserve"">$escaped</w:t></w:r>") | Out-Null
     }
     return $runsXml.ToString()
 }

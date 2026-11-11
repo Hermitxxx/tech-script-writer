@@ -1,0 +1,57 @@
+{
+  "Title": "How to Fix Missing Virtual Game Cards on Nintendo Switch After Update",
+  "IntroLines": [
+    "Are your virtual game cards missing on your Nintendo Switch after a recent update?",
+    "In this video, I'll show you how to deregister console conflicts, clear the cache, and restart to get them back.",
+    "Let's jump right in!"
+  ],
+  "Sections": [
+    {
+      "Heading": "SOLUTION 1: DEREGISTER CONSOLE IN NINTENDO ESHOP",
+      "Steps": [
+        "•  First, from your HOME Menu, open \" Nintendo eShop \" from the bottom toolbar.",
+        "•  Select the user profile linked to your Nintendo Account.",
+        "•  Select your \" Profile Icon \" in the top-right corner to open Account Information.",
+        "•  Scroll down the right panel to locate the \" Primary Console \" section.",
+        "•  Select \" Deregister \" .",
+        "•  Enter your Nintendo Account password if prompted for security.",
+        "•  Select \" Deregister \" again to confirm the console status removal.",
+        "•  Now, press the \" HOME Button \" to exit back to your home screen.",
+        "•  Open the \" Nintendo eShop \" once more to automatically re-sync your account and license status.",
+        "•  Finally, return to your HOME Menu and check if your virtual game cards start appearing."
+      ],
+      "Bridge": "If your virtual game cards are still not showing up, let's clear out corrupted temporary cache data."
+    },
+    {
+      "Heading": "SOLUTION 2: CLEAR SYSTEM CACHE FOR YOUR USER PROFILE",
+      "Steps": [
+        "•  First, from your HOME Menu, open \" System Settings \" from the bottom toolbar.",
+        "•  Scroll all the way down the left sidebar and select \" System \" .",
+        "•  Scroll to the very bottom on the right side and select \" Formatting Options \" .",
+        "•  Select \" Clear Cache \" .",
+        "•  Choose your primary user profile.",
+        "•  Select \" Reset \" to confirm clearing temporary cache files and saved IDs.",
+        "•  Finally, confirm on-screen that the cache data has been successfully deleted."
+      ],
+      "Bridge": "Now that the cache has been reset, let's perform a full system reboot to reload your game licenses."
+    },
+    {
+      "Heading": "SOLUTION 3: RESTART YOUR CONSOLE TO RE-INDEX LICENSES",
+      "Steps": [
+        "•  First, press and hold the physical \" POWER Button \" on the top of your console for three seconds.",
+        "•  Select \" Power Options \" from the menu.",
+        "•  Select \" Restart \" .",
+        "•  Wait a few moments for your Nintendo Switch to reboot completely.",
+        "•  Ensure your console is connected to the internet to verify your digital rights.",
+        "•  Open the \" Virtual Game Cards \" menu or library from the HOME Menu.",
+        "•  Finally, verify that all of your missing virtual game cards have been restored to your screen."
+      ],
+      "Bridge": ""
+    }
+  ],
+  "OutroLines": [
+    "And that's how you can fix missing virtual game cards on your Nintendo Switch after an update.",
+    "If you found this tutorial helpful, don't forget to like the video and subscribe for more easy Nintendo Switch guides.",
+    "Thanks for watching, and I'll catch you in the next one."
+  ]
+}

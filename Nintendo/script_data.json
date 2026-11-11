@@ -1,0 +1,62 @@
+{
+  "Title": "How to Fix Not Enough Free Space to Download the Data on Nintendo Switch",
+  "IntroLines": [
+    "Getting the \"not enough free space to download the data\" error on your Nintendo Switch?",
+    "In this video, I'll show you 3 quick ways to free up gigabytes of storage without losing your save data.",
+    "Let's jump right in!"
+  ],
+  "Sections": [
+    {
+      "Heading": "SOLUTION 1: QUICK ARCHIVE UNPLAYED GAMES",
+      "Steps": [
+        "•  First, go to your home screen.",
+        "•  Move down and select **\" System Settings \"** .",
+        "•  Scroll down the left sidebar and select **\" Data Management \"** .",
+        "•  Select **\" Quick Archive \"** on the right side.",
+        "•  Check the box next to any games you are not currently playing.",
+        "•  Review the total free space that will be created at the bottom of the screen.",
+        "•  Select **\" Archive Data \"** .",
+        "•  Select **\" Archive \"** to confirm.",
+        "•  Finally, return to your home screen and check if your download starts normally."
+      ],
+      "Bridge": "If you want to keep all your games installed, let's move data to your microSD card."
+    },
+    {
+      "Heading": "SOLUTION 2: MOVE DATA TO YOUR MICROSD CARD",
+      "Steps": [
+        "•  First, open **\" System Settings \"** from your home screen.",
+        "•  Scroll down on the left and select **\" Data Management \"** .",
+        "•  Select **\" Move Data Between System / microSD Card \"** .",
+        "•  Select **\" Move to microSD Card \"** .",
+        "•  Choose the game or downloadable content you want to transfer.",
+        "•  Select **\" Move \"** .",
+        "•  Select **\" Move Data \"** to start the transfer.",
+        "•  Wait a few moments for the data transfer to complete.",
+        "•  Finally, check that your system memory now has enough free space available."
+      ],
+      "Bridge": "If you still don't have enough room, let's clear out large captured videos and screenshots."
+    },
+    {
+      "Heading": "SOLUTION 3: DELETE CAPTURED SCREENSHOTS AND VIDEOS",
+      "Steps": [
+        "•  First, return to your home screen.",
+        "•  Open the **\" Album \"** app from the bottom toolbar.",
+        "•  Select **\" Filter \"** on the right or press the **\" Y \"** button on your controller.",
+        "•  Select **\" Media Type \"** .",
+        "•  Choose **\" Videos Only \"** to locate your largest capture files.",
+        "•  Press the **\" X \"** button on your controller to open the manage menu.",
+        "•  Select **\" Delete Multiple Items \"** .",
+        "•  Select the video clips you no longer need.",
+        "•  Select **\" Delete Selected Items \"** .",
+        "•  Confirm by selecting **\" Delete \"** .",
+        "•  Finally, resume your download from the home screen."
+      ],
+      "Bridge": ""
+    }
+  ],
+  "OutroLines": [
+    "And that's how you can fix not enough free space to download data on your Nintendo Switch.",
+    "If you found this tutorial helpful, don't forget to like the video and subscribe for more easy Nintendo Switch tips and guides.",
+    "Thanks for watching, and I'll catch you in the next one."
+  ]
+}

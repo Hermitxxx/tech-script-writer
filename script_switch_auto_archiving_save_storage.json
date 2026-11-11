@@ -1,0 +1,57 @@
+{
+  "Title": "How Auto Archiving Can Save Your Nintendo Switch Storage",
+  "IntroLines": [
+    "Running out of storage space on your Nintendo Switch whenever you try to download new games?",
+    "In this video, I'll show you how auto-archiving automatically frees up gigabytes of space while keeping your save data completely safe.",
+    "Let's jump right in!"
+  ],
+  "Sections": [
+    {
+      "Heading": "METHOD 1: HOW AUTO-ARCHIVING WORKS AND USING QUICK ARCHIVE",
+      "Steps": [
+        "•  First, from your HOME Menu, open \" System Settings \" from the bottom toolbar.",
+        "•  Scroll down the left sidebar and select \" Data Management \" .",
+        "•  On the right side, select \" Quick Archive \" .",
+        "•  The Switch will automatically detect and suggest games you haven't played recently.",
+        "•  Check the boxes next to any games you want to archive.",
+        "•  Select \" Archive Data \" on the right side of the screen.",
+        "•  Select \" Archive \" to confirm.",
+        "•  Notice that your game data is removed to free up space, but your save files remain 100% safe.",
+        "•  Finally, return to your HOME Menu and check your newly available storage space."
+      ],
+      "Bridge": "If there are favorite games you never want the console to automatically touch, here's how to protect them."
+    },
+    {
+      "Heading": "METHOD 2: PREVENT AUTO-ARCHIVING ON YOUR FAVORITE GAMES",
+      "Steps": [
+        "•  First, open \" System Settings \" from your HOME Menu.",
+        "•  Scroll down the left sidebar and select \" Data Management \" .",
+        "•  On the right side, select \" Manage Software \" .",
+        "•  Browse through your library and select the favorite game you want to protect.",
+        "•  Scroll down and select \" Prevent Auto-Archiving \" .",
+        "•  Toggle the setting to \" Yes \" to lock the game files onto your console.",
+        "•  Repeat this step for any other games you play regularly so the system never archives them.",
+        "•  Finally, return to your software list and verify that auto-archiving is disabled for your selected games."
+      ],
+      "Bridge": "Whenever you want to jump back into an archived game, restoring it takes just one tap."
+    },
+    {
+      "Heading": "METHOD 3: INSTANTLY RESTORE AND REDOWNLOAD AUTO-ARCHIVED GAMES",
+      "Steps": [
+        "•  First, scroll through your HOME Menu to find your archived game tile with the small cloud icon.",
+        "•  Select the game icon with the \" A \" button on your Joy-Con or controller.",
+        "•  A system prompt will appear notifying you that software data must be downloaded.",
+        "•  Select \" Download \" on the screen.",
+        "•  The game data will begin downloading in the background from the Nintendo eShop.",
+        "•  Don't worry, your existing save data and progress will automatically load once it finishes.",
+        "•  Finally, check your HOME Menu and launch the game as soon as the download bar completes."
+      ],
+      "Bridge": ""
+    }
+  ],
+  "OutroLines": [
+    "And that's how auto-archiving can effortlessly save your storage space on your Nintendo Switch without losing your saves.",
+    "If you found this tutorial helpful, don't forget to like the video and subscribe for more easy Nintendo Switch tips and guides.",
+    "Thanks for watching, and I'll catch you in the next one."
+  ]
+}

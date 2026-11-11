@@ -1,0 +1,57 @@
+{
+  "Title": "Nintendo Switch Archive or Delete Game Guide",
+  "IntroLines": [
+    "Wondering whether you should archive or delete a game on your Nintendo Switch?",
+    "In this video, I'll show you the exact difference and how to do both to free up storage space.",
+    "Let's jump right in!"
+  ],
+  "Sections": [
+    {
+      "Heading": "METHOD 1: HOW TO ARCHIVE A GAME (KEEP THE ICON)",
+      "Steps": [
+        "•  First, highlight the game you want to archive on your HOME Menu.",
+        "•  Press the \" + \" button on your Joy-Con or controller to open options.",
+        "•  Move down the left menu and select \" Manage Software \" .",
+        "•  Select \" Archive Software \" on the right side.",
+        "•  Select \" Archive \" to confirm.",
+        "•  This removes the game data to free up space while keeping your save data safe.",
+        "•  Notice the game icon stays on your HOME Menu with a small cloud download icon.",
+        "•  Finally, select the game icon anytime you want to quickly redownload it."
+      ],
+      "Bridge": "If you want to completely remove the game and declutter your home screen, here's how to delete it."
+    },
+    {
+      "Heading": "METHOD 2: HOW TO DELETE A GAME (REMOVE THE ICON)",
+      "Steps": [
+        "•  First, highlight the game you want to delete on your HOME Menu.",
+        "•  Press the \" + \" button on your controller to open software options.",
+        "•  Scroll down and select \" Manage Software \" .",
+        "•  Select \" Delete Software \" from the menu.",
+        "•  Select \" Delete \" to confirm the deletion.",
+        "•  Don't worry, your game save data is stored separately and will not be erased.",
+        "•  Notice that both the game data and the game icon are now removed from your screen.",
+        "•  Finally, check your HOME Menu to confirm the icon is gone and your space is freed."
+      ],
+      "Bridge": "If you want to free up massive storage by archiving several games at once, let's use Quick Archive."
+    },
+    {
+      "Heading": "METHOD 3: BULK ARCHIVE MULTIPLE GAMES AT ONCE",
+      "Steps": [
+        "•  First, from your HOME Menu, open \" System Settings \" from the bottom toolbar.",
+        "•  Scroll down the left sidebar and select \" Data Management \" .",
+        "•  On the right side, select \" Quick Archive \" .",
+        "•  Check the box next to any games you are not currently playing.",
+        "•  Look at the bottom of the screen to see the total storage space you will free up.",
+        "•  Select \" Archive Data \" on the right.",
+        "•  Select \" Archive \" to confirm.",
+        "•  Finally, return to your HOME Menu and check your newly available storage space."
+      ],
+      "Bridge": ""
+    }
+  ],
+  "OutroLines": [
+    "And that's the difference between archiving and deleting games on your Nintendo Switch, and how to do both.",
+    "If you found this tutorial helpful, don't forget to like the video and subscribe for more easy Nintendo Switch tips and guides.",
+    "Thanks for watching, and I'll catch you in the next one."
+  ]
+}

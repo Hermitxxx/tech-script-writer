@@ -1,0 +1,60 @@
+{
+  "Title": "How to Fix MicroSD Card Not Working in Nintendo Switch",
+  "IntroLines": [
+    "Is your Nintendo Switch not detecting your microSD card or showing an error?",
+    "In this video, I'll walk you through 3 quick fixes to get your memory card working again in minutes.",
+    "Let's jump right in!"
+  ],
+  "Sections": [
+    {
+      "Heading": "SOLUTION 1: SAFELY RE-INSERT AND RESTART YOUR CONSOLE",
+      "Steps": [
+        "•  First, press and hold the power button on top of your Switch for three seconds.",
+        "•  Select **\" Power Options \"** .",
+        "•  Select **\" Turn Off \"** .",
+        "•  Open the kickstand on the back of your console.",
+        "•  Gently press in on the microSD card until it clicks, then pull it out of the slot.",
+        "•  Check the golden contact pins on the card for any dust or debris.",
+        "•  Slide the microSD card firmly back into the slot until it clicks securely into place.",
+        "•  Close the kickstand.",
+        "•  Press the power button to turn your Nintendo Switch back on.",
+        "•  Finally, open **\" System Settings \"** and check if your **\" microSD Card \"** is detected under **\" Data Management \"** ."
+      ],
+      "Bridge": "If your Switch still doesn't recognize the card, let's check for a missing system update."
+    },
+    {
+      "Heading": "SOLUTION 2: INSTALL THE LATEST SYSTEM UPDATE",
+      "Steps": [
+        "•  First, go to your home screen.",
+        "•  Select **\" System Settings \"** from the bottom toolbar.",
+        "•  Scroll all the way down the left sidebar and select **\" System \"** .",
+        "•  Select **\" System Update \"** on the right side.",
+        "•  If a new update is available, select **\" Update \"** to begin downloading.",
+        "•  Wait for the console to install the update and restart.",
+        "•  Once your console reboots, check if a pop-up appears asking to update the system to use the microSD card.",
+        "•  If this prompt appears, select **\" Update \"** to install the required memory card driver.",
+        "•  Finally, open **\" Data Management \"** and check if your storage appears."
+      ],
+      "Bridge": "If your microSD card is still not working, let's reformat the card directly on your Switch."
+    },
+    {
+      "Heading": "SOLUTION 3: FORMAT THE MICROSD CARD ON NINTENDO SWITCH",
+      "Steps": [
+        "•  First, open **\" System Settings \"** from your home screen.",
+        "•  Scroll down the left sidebar and select **\" System \"** .",
+        "•  Scroll down to the bottom of the right side and select **\" Formatting Options \"** .",
+        "•  Select **\" Format microSD Card \"** .",
+        "•  Review the warning on the screen and select **\" Continue \"** .",
+        "•  Select **\" Format \"** to erase the card and rebuild the file system.",
+        "•  Wait a few seconds for the console to restart automatically.",
+        "•  Finally, head back into **\" Data Management \"** to verify that your microSD card is now active and ready to use."
+      ],
+      "Bridge": ""
+    }
+  ],
+  "OutroLines": [
+    "And that's how you can fix a microSD card not working on your Nintendo Switch.",
+    "If you found this tutorial helpful, don't forget to like the video and subscribe for more easy Nintendo Switch tips and guides.",
+    "Thanks for watching, and I'll catch you in the next one."
+  ]
+}
