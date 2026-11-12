@@ -1,0 +1,17 @@
+﻿Running low on storage space on your Nintendo Switch Lite?
+In today’s video, I'm gonna show you how auto-archiving can automatically save your storage without losing any save data.
+Let's jump right in!
+STEP 1: ENABLE AUTO-ARCHIVING IN DATA MANAGEMENT
+•  First go to your home screen.
+•  Move over to the gear icon for **System Settings**.
+•  Scroll down the left sidebar and select **Data Management**.
+•  Move over to the right side of the screen.
+•  Scroll down and select **Manage Software**.
+•  Browse through your library and choose the specific game or app you want the console to manage.
+•  Inside the game settings, click on **Prevent Auto-Archiving**.
+•  Switch the option to **No** to turn off archiving prevention.
+•  Check that your Switch will now automatically archive unplayed software whenever your console runs low on space.
+•  Keep in mind that your saved data is stored separately and will never be touched.
+And that's how enabling auto-archiving can save your storage space on your Nintendo Switch.
+If this guide helped you out, don't forget to like and subscribe for more easy Nintendo Switch tips and tutorials.
+Thanks for watching, and I'll catch you in the next one.

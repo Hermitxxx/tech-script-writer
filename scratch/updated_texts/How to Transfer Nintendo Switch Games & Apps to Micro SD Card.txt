@@ -1,0 +1,25 @@
+﻿Did you just run out of internal memory on your Nintendo Switch Lite?
+Don't worry—in this video, I'm gonna show you the fastest way to transfer your games and apps directly to your microSD card.
+Let's jump right in!
+
+STEP 1: MOVE GAMES TO MICROSD CARD IN DATA MANAGEMENT
+* First up, go to your home screen.
+* And move over to the gear icon for **" System Settings "** from your bottom toolbar.
+* After that, scroll down over here on the left sidebar until you find **" Data Management "** .
+* Once you're inside **" Data Management "**, look over here on the right side of the screen.
+* And select **" Move Data Between System / microSD Card "** .
+* Let's tap on it.
+* Select **" Move to microSD Card "** from the options over here.
+* Now, browse through the list of games and apps installed on your internal memory.
+* Check the box next to any game you want to move over to your memory card.
+* After choosing your games, look over here on the right side of the screen.
+* And select **" Move Data "** .
+* Review the confirmation prompt showing the total transfer size.
+* And select **" Move "** to begin the transfer.
+* Wait a few moments while the progress bar copies the game data over to your microSD card.
+* Once the transfer finishes, select **" OK "** .
+* Finally, return to your home screen and launch your transferred game to make sure it plays smoothly.
+
+And that's how you can quickly transfer Nintendo Switch games and apps to your microSD card.
+If you found this tutorial helpful, don't forget to like the video and subscribe for more easy Nintendo Switch tips and guides.
+Thanks for watching, and I'll catch you in the next one.

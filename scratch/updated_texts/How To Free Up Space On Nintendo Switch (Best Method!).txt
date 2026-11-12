@@ -1,0 +1,52 @@
+﻿Running out of storage space on your Nintendo Switch Lite and need room for more games?
+In this video, I'm gonna show you the best methods to free up gigabytes of space in just a few simple steps.
+Let's jump right in!
+
+METHOD 1: QUICK ARCHIVE UNPLAYED GAMES
+* First up, go to your home screen.
+* And move over to the gear icon for **" System Settings "** from your bottom toolbar.
+* After that, scroll down over here on the left sidebar and select **" Data Management "** .
+* Once you're inside **" Data Management "**, look over here on the right side.
+* And select **" Quick Archive "** .
+* Let's tap on it.
+* Browse through your installed titles and check the box next to any games you're not currently playing.
+* Look at the bottom of the screen to see the total storage space that will be created.
+* Move over to the right side and select **" Archive Data "** .
+* And select **" Archive "** to confirm.
+* Don't worry, your game save data is completely safe and icons remain on your home screen for easy redownload.
+* Finally, return to your home menu and verify your newly freed storage space.
+
+If you want to keep all your games installed, let's move them over to your microSD card.
+
+METHOD 2: MOVE GAMES TO YOUR MICROSD CARD
+* First up, go to your home screen.
+* And open up **" System Settings "** from the bottom toolbar.
+* Scroll down over here on the left sidebar and select **" Data Management "** .
+* Look over on the right side of the screen.
+* And select **" Move Data Between System / microSD Card "** .
+* Let's tap on it.
+* Select **" Move to microSD Card "** from the options over here.
+* Choose the games or downloadable content you want to transfer.
+* Select **" Move "** on the right side of the screen.
+* And then select **" Move Data "** to start the transfer.
+* Wait a few moments for the data to copy over to your card.
+* Finally, check your system memory to verify that internal storage space has been cleared.
+
+If you still need extra space, let's clear out large captured videos and screenshots.
+
+METHOD 3: DELETE CAPTURED VIDEOS AND SCREENSHOTS
+* First up, return to your home screen.
+* And open up the **" Album "** app from the bottom toolbar.
+* Press the " Y " button on your controller to open the filter menu over here.
+* Select **" Media Type "** .
+* And choose **" Videos Only "** to locate your largest capture files.
+* Now, press the " X " button on your controller to open management options.
+* Select **" Delete Multiple Items "** .
+* Check the boxes next to all the video clips you no longer need.
+* Select **" Delete Selected Items "** on the right side of the screen.
+* And select **" Delete "** again to confirm the deletion.
+* Finally, return to your home menu and check your available system storage.
+
+And that's how you can easily free up storage space on your Nintendo Switch.
+If you found this tutorial helpful, don't forget to like the video and subscribe for more easy Nintendo Switch tips and guides.
+Thanks for watching, and I'll catch you in the next one.

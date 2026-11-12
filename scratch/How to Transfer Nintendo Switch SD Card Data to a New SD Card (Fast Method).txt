@@ -1,0 +1,41 @@
+﻿"In today's video, I'm gonna show you how to transfer your existing Nintendo Switch Lite SD card data to a new SD card quickly and safely in just a few simple steps."
+So, let me guide you through the steps.
+STEP 1: COPY THE NINTENDO FOLDER TO YOUR COMPUTER
+•  First, press and hold the power button on top of your Switch for three seconds.
+•  Choose " Power Options " from the pop up menu.
+•  Select " Turn Off ".
+• After that, Open the kickstand on the back of your console.
+•  Gently press in on the microSD card until it clicks, then pull it out of the slot.
+•  Insert the old microSD card into your computer using an SD card reader.
+•  Open " File Explorer " on your PC.
+•  Click on your microSD card drive from the left sidebar.
+•  Right-click on the folder named " Nintendo ".
+•  Select " Copy ".
+•  Go to your computer's " Desktop " and paste it there by pressing Ctrl and V on your keyboard.
+•  Wait for the " Nintendo " folder to finish copying completely to your computer.
+•  After the process is finished , Remove the old microSD card from your computer.
+Once the files are saved on your computer, let's move them onto your new SD card.
+STEP 2: TRANSFER THE NINTENDO FOLDER TO YOUR NEW SD CARD
+•  First, insert your new microSD card into your computer's card reader.
+•  Open " File Explorer " on your PC.
+•  Click on your new microSD card drive from the left sidebar.
+•  Make sure the card is completely empty or delete any existing files on it.
+•  Now, go back to your " Desktop " where you saved the backup.
+•  Right-click on the " Nintendo " folder.
+•  Select " Copy " .
+•  Go back to your new microSD card drive in " File Explorer " .
+•  Right-click on an empty space inside the drive.
+•  Select " Paste " .
+•  Wait for the entire " Nintendo " folder to finish copying to the new card.
+•  Then Remove the new microSD card from your computer.
+Now that your data is transferred, let's put the new card into your Switch and verify everything works.
+STEP 3: INSERT THE NEW SD CARD AND VERIFY YOUR GAMES
+•  First, Insert your new microSD card into your Nintendo switch.
+•  Then power on your switch.
+•  Open " System Settings ".
+•  Scroll down on the left side and select " Data Management " .
+•  Check the " microSD Card " section on the right to verify your new storage space.
+•  Finally, launch one of your installed games to confirm that all your data loads properly.
+And that's how you can transfer your Nintendo Switch SD card data to a new SD card.
+If you found this tutorial helpful, don't forget to like the video and subscribe for more easy Nintendo Switch tips and guides.
+Thanks for watching, and I'll catch you in the next one.

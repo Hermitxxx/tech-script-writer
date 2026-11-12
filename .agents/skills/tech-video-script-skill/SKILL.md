@@ -54,14 +54,14 @@ Do not combine two distinct physical actions, screen interactions, or clicks int
 
 * ✅ **RIGHT (Atomic Micro-Steps — Perfect Studio Pacing):**
   * Use the search bar at the top.
-  * Type " **Bluetooth** ".
+  * Type **Bluetooth**.
   * Click on **Apply**.
   * And then click on **OK**.
   * Open your **Settings**.
   * Click on **Notifications** over here on the left.
 
-### Rule E: Bold Clickable Options, Settings & Buttons (Visual Clarity)
-Whenever an on-screen option, setting, menu item, toggle, tab, or button that the viewer or creator must click, tap, or select is mentioned, **format it in Bold** (using Markdown `**Option Name**`).
+### Rule E: Bold Clickable Options, Settings & Buttons (Zero Quotation Marks)
+Whenever an on-screen option, setting, menu item, toggle, tab, or button that the viewer or creator must click, tap, or select is mentioned, **format it in Bold** (using Markdown `**Option Name**`). **Never enclose bold words in quotation marks** (do NOT use `**" Option "**` or `" Option "`; use clean `**Option Name**`).
 
 #### 1. What Gets Bolded:
 * **Buttons & Clickable Links:** `**Properties**`, `**Apply**`, `**OK**`, `**Restart task**`, `**Update driver**`, `**Force stop**`, `**Save**`, `**Done**`
@@ -79,45 +79,7 @@ Respect the viewer's intelligence on their platform. Guide the viewer fluidly th
 
 ---
 
-## 3. The Universal Natural Spoken Language System for Steps
-
-Apply these **spoken language patterns** throughout every step, on any device, to keep the delivery conversational, friendly, and studio-grade:
-
-### A. Chronological Signposting & State Verification
-Anchor the viewer's progress with natural temporal markers:
-* **Initial Step:** *"First up, open up your **Settings** from your home screen."* / *"First up, right-click on any empty area on your desktop."*
-* **Intermediate Step:** *"After that, you'll need to scroll down over here until you find **[Setting]**..."*
-* **State Verification (Screen Check):** *"Once you're inside **[Menu]**, you have to go to..."* / *"While you're inside here, look for..."*
-* **Exit / Completion:** *"Now you can just get out of your settings, and..."* / *"And now you can close out of this window."*
-
-### B. Spatial Deixis (Visual Screen Anchoring Across Devices)
-Orient the viewer’s eye right before an on-screen interaction:
-* **PC / Mac:** *"over here on the left sidebar"*, *"up here in the top right corner"*, *"right down here at the bottom"*
-* **Mobile / Consoles:** *"scroll down over here until you find **[Option]**"*, *"move over to the right side of the screen"*, *"select the option over here"*
-
-### C. Collaborative & First-Person Demo Phrasing
-Blend collaborative prompts with natural demonstration so the host sounds like an active partner:
-* **Collaborative:** *"Let's click on it."* / *"Let's tap on it."* / *"Let's go ahead and turn this on."*
-* **First-Person Demonstration:** *"I'm just gonna choose **5 minutes**, and I'm gonna hit **Done**."* / *"I'm just gonna click on this toggle over here, and it's gonna disable it."*
-
-### D. Modal Balance (Mandatory Navigation vs. User Choice)
-* **For Mandatory Paths (Direct):** Use *"you need to scroll down"*, *"you have to go to..."*, *"open up your..."*.
-* **For Customizable Settings (Discretionary):** Use *"Choose what works best for you..."*, *"You can select..."*, *"Pick something like **1080p** or **720p**..."*.
-
-### E. Tactile, Conversational Verbs (Zero Stiff Corporate Jargon)
-Avoid rigid, robotic phrasing. Use natural spoken verbs matched to the platform:
-* **PC / Mac:** `click on`, `right-click`, `pop open`, `close out of this window`, `hit apply`, `type in`.
-* **Mobile / Touchscreens:** `tap on`, `swipe down`, `toggle this off`, `hit done`, `jump out of settings`.
-* **Consoles / TV:** `move over to`, `select`, `pick`, `get out of your settings`, `all by yourself`.
-
-### F. Contextual Rules of Thumb (Quick Inline Value)
-Whenever presenting options, insert a fast 1-sentence real-world tip:
-* *"And if you want to save battery, pick something like **5 to 10 minutes**."*
-* *"If you disable this, it'll basically stop random notifications from buzzing while you're in full screen."*
-
----
-
-## 4. Intro & Outro Architecture (from `/scripted`)
+## 3. Intro & Outro Architecture (from `/scripted`)
 
 ### A. The Short, High-Retention Intro Hook (2 to 3 Lines Max)
 Intros must be **ultra-short, connected, natural, punchy, and get straight to the point within 5 to 8 seconds**. Never bloat into long 4 to 5 sentence essays with textbook cause explanations, unnecessary disclaimers, or bloated multi-sentence greetings. Create an immediate urge to watch the full video, then transition directly into Step 1.
@@ -126,7 +88,7 @@ Rotate through these **5 dynamic styles** across scripts so every video stays fr
 
 - **Style A: The Urgent Fix Hook (High Tension & Fast Relief)**:
   - Line 1: *"Is your [Device/App] [symptom / frozen on logo / not opening]?"*
-  - Line 2: *"In this video, I'll show you how to quickly fix it in just a few simple steps."*
+  - Line 2: *"In this video, I'm gonna show you how to quickly fix it in just a few simple steps."*
   - Line 3: *"Let's jump right in!"*
 - **Style B: The Direct Multi-Step Fix (Fast & Authoritative)**:
   - Line 1: *"If your [Device/App] is [issue], here's a quick 3-step fix to get it working again."*
@@ -153,8 +115,8 @@ Rotate through these **5 dynamic styles** across scripts so every video stays fr
 
 ### C. Mid-Script Escalation Hooks (Between Steps)
 Keep transitions conversational and natural across all tech environments:
-* *"If that quick toggle didn't solve the issue, let's check this next system setting over here."*
-* *"Still having trouble? Follow this next step to refresh your display settings directly."*
+* *"If that quick toggle didn't solve the issue, let's check this next system setting."*
+* *"Still having trouble? Follow this next step to refresh your settings directly."*
 * *"If your device still isn't showing up, let's reset the connection with this next step."*
 
 ### D. The 3-Part Outro (Clean, High-Retention Sign-Off)
@@ -165,7 +127,7 @@ Wrap up smoothly with this natural 3-sentence rhythm:
 
 ---
 
-## 5. Universal Reference Blueprints across Platforms
+## 4. Universal Reference Blueprints across Platforms
 
 ### Blueprint 1: Console / Power Genre (`Nintendo Switch Auto Sleep Timer`)
 > Want to stop your Nintendo Switch from staying awake when you're not using it?
@@ -173,17 +135,11 @@ Wrap up smoothly with this natural 3-sentence rhythm:
 > Let's get right into it!
 >
 > **STEP 1: SET AUTO-SLEEP TIMER IN SYSTEM SETTINGS**
-> * First up, go to your home screen.
-> * And go to **" System Settings "** from your home menu.
-> * After that, you need to scroll down over here until you find **" Sleep Mode "** on the available options.
-> * Once you are inside **" Sleep Mode "**, go to the auto sleep timer over here.
-> * And select **" Auto-Sleep (Playing on Console Screen) "** .
-> * Let's tap on it.
-> * Here you'll have multiple options to choose how long the Switch should wait before going to sleep.
-> * You can select **" 1 min "**, **" 3 min "**, **" 5 min "**, **" 10 min "**, or whatever you prefer.
-> * And if you want to save battery, pick something like **" 5 min "** or **" 10 min "** .
-> * I'm just gonna choose **" 5 min "** .
-> * And I'm gonna hit **" OK "** .
+> * Open **System Settings** from your home screen.
+> * Scroll down the left sidebar and select **Sleep Mode**.
+> * Select **Auto-Sleep (Playing on Console Screen)**.
+> * Choose your preferred duration, such as **5 min**.
+> * Select **OK** to save your setting.
 >
 > And that's how you can set the auto sleep timer on your Nintendo Switch. If you found this tutorial helpful, don't forget to like the video and subscribe for more easy tech guides. Thanks for watching, and I'll catch you in the next one!
 
@@ -195,12 +151,10 @@ Wrap up smoothly with this natural 3-sentence rhythm:
 > Let's jump right in!
 >
 > **STEP 1: UNHIDE DESKTOP ICONS IN VIEW SETTINGS**
-> * First up, go to your desktop.
-> * Right-click on any empty space on your screen.
-> * Move your cursor over to the **" View "** option at the top.
-> * Look over here on the submenu that pops open.
-> * And click on **" Show desktop icons "** .
-> * Once you click on it, your icons should instantly pop back up on your screen.
+> * Right-click on any empty space on your desktop.
+> * Move your cursor over to the **View** option.
+> * Click on **Show desktop icons**.
+> * Check that your icons instantly pop back up on your screen.
 >
 > And that's how you can restore your missing desktop icons on Windows 11. If you found this tutorial helpful, don't forget to like the video and subscribe for more easy tech guides. Thanks for watching, and I'll catch you in the next one!
 
@@ -212,19 +166,16 @@ Wrap up smoothly with this natural 3-sentence rhythm:
 > Let's get right into it!
 >
 > **STEP 1: ADJUST NOTIFICATION SOUNDS IN SETTINGS**
-> * First up, unlock your iPhone.
-> * And tap on your **" Settings "** app.
-> * Scroll down over here until you find **" Sounds & Haptics "** .
-> * Let's tap on it.
-> * Move down to the alerts section over here.
-> * Tap on **" Default Alerts "** .
-> * And select the **" None "** option if you want complete silence.
+> * Open the **Settings** app on your iPhone.
+> * Scroll down and tap on **Sounds & Haptics**.
+> * Tap on **Default Alerts**.
+> * Select **None** if you want complete silence.
 >
 > And that's how you can control your iPhone notification sounds. If you found this tutorial helpful, don't forget to like the video and subscribe for more easy tech guides. Thanks for watching, and I'll catch you in the next one!
 
 ---
 
-## 6. Output Delivery Standard
+## 5. Output Delivery Standard
 
 1. **Dual Output Requirement:**
    - **Chat Output:** Provide the full formatted script with Title Ideas, Spoken Intro Hook, Step-by-Step Sections with Bold UI elements, Outro, and metadata.
@@ -232,7 +183,7 @@ Wrap up smoothly with this natural 3-sentence rhythm:
      ```powershell
      powershell -ExecutionPolicy Bypass -File "c:\HIRA SCRIPTS\.agents\skills\tech-video-script-skill\scripts\build_script_docx.ps1" -InputFile "<path_to_txt>" -OutputFile "c:\HIRA SCRIPTS\<Descriptive_Title>.docx"
      ```
-2. **Bold Clickable Options & Buttons (STRICT):** Every setting, button, menu item, toggle, tab, or clickable UI option must be formatted in **Bold** (using Markdown `**Option Name**`) in both the chat output and the `.docx` document. The OpenXML compiler will render them as native 16pt **Bold** text runs.
+2. **Bold Clickable Options & Buttons (STRICT - Zero Quotation Marks):** Every setting, button, menu item, toggle, tab, or clickable UI option must be formatted in **Bold** using Markdown `**Option Name**` **without** any quotation marks (never write `**" Option "**` or `" Option "`) in both the chat output and the `.docx` document. The OpenXML compiler will render them as native 16pt **Bold** text runs.
 3. **Atomic Micro-Steps (STRICT):** Every individual physical user action, click, or menu movement must have its own separate, dedicated bullet point. Never combine two actions with "and".
 4. **Zero Titles in the Document (STRICT):** Never include a title line (e.g., `Title: ...` or topic headers) inside the `.docx` file. Title ideas belong exclusively in the chat output for YouTube metadata. The `.docx` script must start **immediately on line 1 with the spoken opening hook**, matching `inspiration.docx`.
 5. **Universal Dynamic Genre Matching (STRICT):** Before writing, always classify the topic into its primary genre (Feature Toggle, Power/Sleep, Display/Audio, Troubleshooting, Pairing/Hardware, Storage/Cleanup) and adapt the natural, conversational language to the target platform (PC, Mac, iPhone, Android, Console, Smart TV).

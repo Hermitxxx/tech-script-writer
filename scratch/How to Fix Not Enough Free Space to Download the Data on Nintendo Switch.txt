@@ -1,0 +1,37 @@
+﻿Are you Getting the "not enough free space to download the data" error on your Nintendo Switch Lite?
+Don’t worry --- In today’s video, I’m gonna show you three quick solutions to free up gigabytes of storage without losing your saved data.
+Let's jump right in!
+SOLUTION 1: QUICK ARCHIVE UNPLAYED GAMES
+•  First, go to your home screen.
+•  Move over to the gear icon for " System Settings ".
+•  After opening system settings, scroll down and select " Data Management ".
+Then select " Quick Archive " and open it.
+A list of downloaded games on your console will appear on the screen.
+•  Check the box next to any games you are not currently playing.
+•  Review the total free space that will be created.
+•  Select " Archive Data " and click on " Archive " to confirm.
+•  Finally, return to your home screen and check if your download starts normally.
+If you want to keep all your games installed, let's move data to your microSD card.
+SOLUTION 2: MOVE DATA TO YOUR MICROSD CARD
+•  First, go to your home screen.
+•  Then, move over to the gear icon for " System Settings ".
+•  Scroll down on the left side of the screen and select " Data Management ".
+•  After that move over to the right and open " Move Data Between System / microSD Card ".
+•  Select " Move to microSD Card " from the options that will appear.
+•  Choose the game or downloadable content you want to transfer.
+•  Select " Move " and then click on " Move Data " to start the transfer.
+•  Wait a few moments for the data transfer to complete.
+•  Finally, check that your system memory now has enough free space available.
+If you still don't have enough room, let's clear out large captured videos and screenshots.
+SOLUTION 3: DELETE CAPTURED SCREENSHOTS AND VIDEOS
+•  First, go to your home screen.
+•  Open the " Album " app from the bottom toolbar.
+•  Select " Filter " on the right or press the " Y " button on your controller.
+•  Choose " Videos Only " to locate your largest capture files.
+•  Press the " X " button on your controller to open the manage menu.
+•  Select the video clips you no longer need.
+•  Delete the selected items by clicking on " Delete ".
+•  Finally, resume your download from the home screen.
+And that's how you can fix not enough free space to download data on your Nintendo Switch.
+If you found this tutorial helpful, don't forget to like this video and subscribe for more easy Nintendo Switch tips and guides.
+Thanks for watching, and I'll catch you in the next one.

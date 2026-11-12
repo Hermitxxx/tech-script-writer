@@ -1,0 +1,50 @@
+Is your Nintendo Switch Lite running out of internal storage because of saved screenshots and videos?
+In this video, I'm gonna show you how to move them directly to your microSD card and free up your system memory.
+Let's jump right in!
+
+METHOD 1: COPY ALL SCREENSHOTS TO MICROSD CARD IN SYSTEM SETTINGS
+* First up, go to your home screen.
+* And move over to the gear icon for **" System Settings "** from your bottom toolbar.
+* After that, scroll down over here on the left sidebar until you find **" Data Management "** .
+* Once you're inside **" Data Management "**, look over here on the right side of the screen.
+* And select **" Manage Screenshots and Videos "** .
+* Let's tap on it.
+* Look under the storage options and select **" System Memory "** .
+* Once you're inside here, look down at the options.
+* And select **" Copy All Screenshots and Videos to microSD Card "** .
+* Look at the confirmation prompt on screen.
+* And select **" Copy "** to begin transferring all your captures.
+* Wait a few moments while the progress bar copies the files over to your card.
+* Once the transfer finishes, select **" OK "** .
+* Finally, check your storage screen to verify that your captures have been copied to your card.
+
+If you only want to transfer a single picture or video instead of copying everything, let's use the Album.
+
+METHOD 2: COPY INDIVIDUAL SCREENSHOTS FROM THE ALBUM
+* First up, return to your home screen.
+* And open up the **" Album "** app from your bottom toolbar.
+* Browse through your gallery and select the specific screenshot or video you want to move.
+* Once the capture opens up full screen, look down in the bottom right corner.
+* And select **" Sharing and Editing "** .
+* Look over here on the menu options that pop up.
+* And select **" Copy "** .
+* When the prompt asks to copy to the microSD card, select **" Copy "** to confirm.
+* Wait a second for the confirmation message to appear.
+* And select **" OK "** .
+* Finally, check your capture in the album to verify that it now shows the microSD card badge.
+
+To keep your system memory clean in the future, let's set your microSD card as the default save location.
+
+METHOD 3: SET MICROSD CARD AS DEFAULT SAVE LOCATION
+* First up, open up **" System Settings "** from your home screen.
+* Scroll down over here on the left sidebar and select **" Data Management "** .
+* On the right side, select **" Manage Screenshots and Videos "** .
+* Look right at the top of the screen where it says **" Save Location "** .
+* Let's tap on it.
+* And select **" microSD Card "** from the options over here.
+* Now, all future screenshots and video clips you capture will save directly to your memory card automatically.
+* Finally, return to your home screen to confirm your settings are active.
+
+And that's how you can easily move screenshots to your microSD card on your Nintendo Switch Lite.
+If you found this tutorial helpful, don't forget to like the video and subscribe for more easy Nintendo Switch guides.
+Thanks for watching, and I'll catch you in the next one.

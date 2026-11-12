@@ -1,0 +1,33 @@
+﻿Want to delete screenshots and videos taking up space on your Nintendo Switch Lite?
+In this video, I'm gonna show you how to delete multiple files or wipe them all at once in just a few simple steps.
+Let's jump right in!
+
+METHOD 1: DELETE MULTIPLE SCREENSHOTS AND VIDEOS AT ONCE
+* First up, go to your home screen.
+* And open up the **" Album "** app from the bottom toolbar.
+* Once you're inside the album, press the " X " button on your controller to open the manage menu.
+* And select **" Delete Multiple Items "** .
+* Scroll through your captures and select the pictures or videos you want to remove.
+* After selecting your files, move over to the right side of the screen.
+* And select **" Delete Selected Items "** .
+* Select **" Delete "** to confirm the deletion.
+* Finally, review your album gallery to verify that all selected captures have been cleared.
+
+If you have hundreds of captures and want to wipe all of them at once, let's delete them through System Settings.
+
+METHOD 2: DELETE ALL SCREENSHOTS AND VIDEOS AT ONCE VIA SYSTEM SETTINGS
+* First up, go to your home screen.
+* And open up **" System Settings "** from the bottom toolbar.
+* After that, scroll down over here on the left sidebar and select **" Data Management "** .
+* Once you're inside **" Data Management "**, look over here on the right side.
+* And select **" Manage Screenshots and Videos "** .
+* Let's tap on it.
+* Select your storage location, choosing either **" System Memory "** or **" microSD Card "** .
+* Scroll down right to the bottom over here.
+* And select **" Delete All Screenshots and Videos "** .
+* Select **" Delete "** to confirm the permanent removal of all captures.
+* Finally, check your storage screen to verify that your capture space has been completely freed up.
+
+And that's how you can easily delete screenshots and videos on your Nintendo Switch.
+If you found this tutorial helpful, don't forget to like the video and subscribe for more easy Nintendo Switch guides.
+Thanks for watching, and I'll catch you in the next one.

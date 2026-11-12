@@ -1,0 +1,36 @@
+﻿"In today's video, I'm gonna show you how to free up storage space on your Nintendo Switch Lite and make room for more games and downloads in just a few simple steps.
+METHOD 1: QUICK ARCHIVE UNPLAYED GAMES
+•  First, go to your HOME screen, open " System Settings " from the bottom toolbar.
+•  Move over to the gear icon for " System Settings ".
+•  Scroll down the left sidebar and select " Data Management ".
+•  On the right side, select " Quick Archive ".
+•  Select games you are not currently playing.
+•  Select " Archive Data " on the right.
+•  Select " Archive " to confirm.
+•  Don't worry, your game saved data is completely safe and icons remain on your home screen for easy redownload.
+•  Finally, return to your HOME Menu and verify your newly freed storage space.
+If you want to keep all your games installed, let's move them over to your microSD card.
+METHOD 2: MOVE GAMES TO YOUR MICROSD CARD
+•  First, open " System Settings " from your HOME Menu.
+•  Scroll down on the left and select " Data Management " .
+•  Select " Move Data Between System / microSD Card " .
+•  After that select " Move to microSD Card " for transferring games to your microSD card.
+•  Select the games or downloadable content you want to transfer.
+•  Select " Move " on the right.
+•  Select " Move Data " to start the transfer.
+•  Wait a few moments for the data to copy over to your card.
+•  Finally, check your system memory to verify that internal storage space has been cleared.
+If you still need extra space, let's clear out large captured videos and screenshots.
+METHOD 3: DELETE CAPTURED VIDEOS AND SCREENSHOTS
+•  First, return to your HOME Menu.
+•  Open the " Album " app from the bottom toolbar.
+•  Press the " Y " button on your controller to open the filter menu.
+•  Choose " Videos Only " to find your largest capture files.
+•  Press the " X " button on your controller to open management options.
+•  Check the boxes next to all the video clips you no longer need.
+•  Hit the " Delete " button on the right.
+•  Select " Delete " again to confirm the deletion.
+•  Finally, return to your HOME Menu and check your available system storage.
+And that's how you can easily free up storage space on your Nintendo Switch.
+If you found this tutorial helpful, don't forget to like the video and subscribe for more easy Nintendo Switch tips and guides.
+Thanks for watching, and I'll catch you in the next one.

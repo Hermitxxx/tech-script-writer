@@ -1,0 +1,11 @@
+﻿Are you tired of unexpected game updates taking up your internet bandwidth or delaying your gameplay?
+Don’t worry – today I am gonna show you how you can pause automatic game updates on your Nintendo switch lite.
+•  First, from your HOME Menu, open " System Settings " from the bottom toolbar.
+•  Scroll all the way down on the left side and select " System " .
+•  Scroll down on the right side until you find " Auto-Update Software " .
+•  Select it to toggle the setting to " Off " .
+•  This prevents games from downloading updates automatically in the background or during sleep mode.
+•  Finally, return to your HOME Menu to confirm your new setting is active.
+And that's how you can disable automatic game updates on your Nintendo Switch Lite.
+If this guide helped you out, don't forget to like and subscribe for more easy Nintendo Switch tips and tutorials.
+Thanks for watching, and I'll catch you in the next one.

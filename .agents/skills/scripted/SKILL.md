@@ -24,19 +24,19 @@ Every script authored under this skill must adhere to these non-negotiable rules
    - Create an immediate urge to watch the full video, then transition directly into Step 1.
    - Vary the intro style across documents using dynamic archetypes (Urgent Fix, Direct Step Count, Symptom & Relief, Teaser/Curiosity, Rapid Launch).
 2. **One Action Per Line**: Never bundle multiple UI taps or clicks into a single sentence or paragraph. Each line represents a single discrete on-screen action.
-3. **Bold Clickable UI Options in Quotes (`" Option "`)**:
-   - Every setting, button, menu item, toggle, app name, or key to be clicked, tapped, or toggled must be **Bold** and enclosed inside quotes with internal spaces: `**" Settings "**`, `**" Clear cache "**`, `**" Digital Crown "**`.
-   - In the generated Word `.docx`, these are compiled as native inline **bold** text runs inside quotes.
+3. **Bold Clickable UI Options**:
+   - Every setting, button, menu item, toggle, app name, or key to be clicked, tapped, or toggled must be **Bold** (there is no need to enclose bold words in quotes): `**Settings**`, `**Clear cache**`, `**Digital Crown**`.
+   - In the generated Word `.docx`, these are compiled as native inline **bold** text runs.
 4. **Temporal Signposts**: Sequence steps with conversational temporal markers:
-   - `•  First, open **" Settings "**...`
-   - `•  Then, tap **" Apps "**...`
-   - `•  Now, select **" Storage "**...`
-   - `•  Next, tap **" Clear cache "**...`
-   - `•  After that, tap **" Force stop "**...`
+   - `•  First, open **Settings**...`
+   - `•  Then, tap **Apps**...`
+   - `•  Now, select **Storage**...`
+   - `•  Next, tap **Clear cache**...`
+   - `•  After that, tap **Force stop**...`
    - `•  Finally, check if [verification]...`
 5. **Mandatory Verification**: Every solution or method must end with an explicit step verifying that the issue is fixed or the feature is working.
 6. **Conditional Failure Bridges**: Troubleshooting guides must include a bridge sentence between solutions (e.g., `"If the problem is still there, move on to the next fix."`).
-7. **Typography & Styling**: All `.docx` files use **Aptos 14pt (sz=28)**, single spacing, bulleted step indents, **Bold** section headings, and inline **Bold** for clickable `" Option "` elements.
+7. **Typography & Styling**: All `.docx` files use **Aptos 14pt (sz=28)**, single spacing, bulleted step indents, **Bold** section headings, and inline **Bold** for clickable UI elements.
 
 ---
 
@@ -72,7 +72,7 @@ Keep intros under 8 spoken seconds. Select from these 5 dynamic styles to keep e
 
 ### Part 3: Step-by-Step Actions
 - Individual bullet lines (`•  `) per action.
-- UI targets formatted in bold quotes: `•  Tap on **" Option "**.`
+- UI targets formatted in bold: `•  Tap on **Option**.`
 - Accurate device-specific terminology.
 - Terminate each solution with a verification step and a failure bridge.
 

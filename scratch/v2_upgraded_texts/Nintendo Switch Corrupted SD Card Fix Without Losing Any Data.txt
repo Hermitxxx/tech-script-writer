@@ -1,0 +1,45 @@
+﻿Getting a corrupted microSD card error on your Nintendo Switch Lite?
+Don't panic—in this video, I'm gonna show you 3 proven solutions to fix it without losing any of your saved data.
+Let's jump right in!
+SOLUTION 1: REPAIR THE MICROSD CARD USING WINDOWS
+•  First, turn off your Nintendo Switch completely.
+•  Open up the card slot cover and take out the microSD card.
+•  Insert the microSD card into your computer using an SD card reader.
+•  Press the windows key on your keyboard.
+•  Type **cmd** in the search bar.
+•  Right-click on **Command Prompt** from the search results and choose **Run as administrator**.
+•  Click **Yes** if the User Account Control prompt appears.
+•  In the command prompt window, type: **chkdsk E: /f /r**
+•  Make sure to replace **E:** with the actual drive letter assigned to your microSD card in File Explorer.
+•  Hit enter on your keyboard to run the scan.
+•  Wait for Windows to scan the drive and repair any corrupted sectors.
+•  Once the scan finishes, safely eject the microSD card from your computer.
+•  Slide the microSD card back into your Nintendo Switch and power it on.
+•  Check if your games and data now load without any error messages.
+If Windows fails to repair the card or the drive is still unstable, let's move on to the next solution.
+SOLUTION 2: MANUALLY BACK UP AND REFORMAT THE SD CARD
+•  Turn off your Nintendo Switch and take out the microSD card.
+•  Connect the microSD card to your computer using your card reader.
+•  Open up **File Explorer** on your PC.
+•  Click on your microSD card drive from the left sidebar.
+•  Right-click on the folder named **Nintendo**.
+•  Select **Copy**.
+•  Head over to your computer's **Desktop**.
+•  Right-click on any empty space and choose **Paste** to create a safe backup.
+•  Once the copy finishes, safely eject the microSD card from your PC.
+•  Slide the microSD card back into your Nintendo Switch and turn the console on.
+•  From your home screen, move over to the gear icon for **System Settings**.
+•  Scroll all the way down the left sidebar and select **System**.
+•  Move over to the right side, scroll down, and click on **Formatting Options**.
+•  Choose **Format microSD Card** from the options.
+•  Select **Continue** and confirm to format the card.
+•  Wait a few moments for your Nintendo Switch to format the card and restart automatically.
+•  Turn off your console again and plug the microSD card back into your computer.
+•  Copy your backed-up **Nintendo** folder from your desktop.
+•  Paste it directly onto the root of your freshly formatted microSD card.
+•  Once the transfer is complete, safely eject the card from your PC.
+•  Insert the microSD card back into your Nintendo Switch and turn it on.
+•  Verify that your games and data load properly without any issues.
+And that's how you can fix a corrupted microSD card on your Nintendo Switch without losing your data.
+If you found this tutorial helpful, don't forget to like the video and subscribe for more easy tech guides.
+Thanks for watching, and I'll catch you in the next one.

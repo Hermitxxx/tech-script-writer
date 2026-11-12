@@ -1,0 +1,37 @@
+﻿In today's video, I'm gonna show you how to resolve Virtual Game Cards missing on your Nintendo Switch Lite in just a few simple steps.
+Let's get right into it!
+SOLUTION 1: DEREGISTER CONSOLE IN NINTENDO ESHOP
+•  First go to your home screen.
+•  Move over to the orange **Nintendo eShop** icon on the bottom row.
+•  Choose the user profile linked to your Nintendo Account.
+•  Move up to the top right corner and click on your **Profile Icon** to open Account Information.
+•  Scroll down the left menu and select **Settings**.
+•  Move over to the right panel and scroll down to locate **Primary Console**.
+•  Click on **Deregister**.
+•  Enter your Nintendo Account password if prompted for security.
+•  Confirm by selecting **Deregister** again.
+•  Press the physical **Home button** to exit back to your home screen.
+•  Reopen **Nintendo eShop** to automatically re-sync your account and license status.
+•  Return to your home menu and check if your virtual game cards start appearing.
+If your virtual game cards are still not showing up, let's clear out corrupted temporary cache data.
+SOLUTION 2: CLEAR SYSTEM CACHE FOR YOUR USER PROFILE
+•  First go to your home screen.
+•  Move over to the gear icon for **System Settings**.
+•  Scroll all the way down the left sidebar and select **System**.
+•  Move over to the right side, scroll all the way down, and click on **Formatting Options**.
+•  Choose **Clear Cache** from the list of options.
+•  Select your primary user profile.
+•  Confirm by choosing **Reset** to clear temporary cache files and saved IDs.
+•  Check on screen that your cache data has been successfully cleared.
+Now that the cache has been reset, let's perform a full system reboot to reload your game licenses.
+SOLUTION 3: RESTART YOUR CONSOLE TO RE-INDEX LICENSES
+•  Press and hold the physical power button on top of your console for three seconds.
+•  Choose **Power Options** from the popup menu.
+•  Click on **Restart**.
+•  Wait a few moments for your Nintendo Switch to reboot completely.
+•  Make sure your console connects to the internet after restarting.
+•  Open up the **Virtual Game Cards** menu from your home screen.
+•  Verify that all of your missing virtual game cards have now been restored to your screen.
+And that's how you can fix missing virtual game cards on your Nintendo Switch after an update.
+If you found this tutorial helpful, don't forget to like the video and subscribe for more easy Nintendo Switch guides.
+Thanks for watching, and I'll catch you in the next one.

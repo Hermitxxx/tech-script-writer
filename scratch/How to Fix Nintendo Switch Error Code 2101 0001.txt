@@ -1,0 +1,56 @@
+Are you getting the frustrating error code 2101-0001 on your Nintendo Switch and can't use your console?
+In this video, I'm gonna walk you through the top fixes to troubleshoot and resolve this error in minutes.
+Let's get right into it!
+
+STEP 1: PERFORM A FULL RESTART ON YOUR CONSOLE
+* First, press and hold down the physical **POWER Button** on the top left edge of your console for at least three seconds.
+* From the power menu that pops up on screen, select **Power Options**.
+* Now choose **Restart**.
+* If your screen is completely frozen on the error display, hold down the physical **POWER Button** for a full twelve seconds to force a hard shutdown, then press it once to power it back on.
+* Verify that your Switch reboots cleanly to the home screen without the error code returning.
+
+If restarting your Switch didn't resolve the issue and the error pops back up, let's check for any missing system updates that might contain an official stability patch.
+
+STEP 2: CHECK FOR A SYSTEM UPDATE
+* From your home screen, navigate over to the **gear icon** on the bottom toolbar for **System Settings**.
+* Scroll all the way down the left sidebar and click on **System**.
+* Move over to the right side of the screen.
+* Hit **System Update** at the very top of the list.
+* The console will automatically check for any pending software updates.
+* If an update is available, choose **Update** to begin downloading and installing the new firmware.
+* Wait for the console to install the update and reboot, then check that your system version displays **Current**.
+
+If updating your console still didn't clear the error, a corrupted memory card might be causing a power conflict, so let's remove your microSD card next.
+
+STEP 3: REMOVE THE MICROSD CARD
+* Press and hold the physical **POWER Button** on top for three seconds.
+* Click on **Power Options** and select **Turn Off**.
+* Flip your Nintendo Switch around to the back and gently lift open the kickstand.
+* Press the **microSD Card** inward until you hear a soft click, then slide it out of the slot.
+* Inspect the card pins for any dirt or damage, and leave the card out of the console for now.
+* Press the **POWER Button** on top to turn your console back on.
+* Confirm that your console boots smoothly into your home screen without triggering the error code.
+
+If the error code is still persisting with the card removed, the problem could be tied to power delivery, so let's test a direct connection with a different charging adapter or cable.
+
+STEP 4: TEST A DIFFERENT CHARGING ADAPTER OR CABLE
+* Unplug your Switch from the dock and disconnect any attached charging cables.
+* Take a close look at the **USB-C port** on the bottom of the console to make sure there is no lint, debris, or bent pins.
+* Grab an official **Nintendo Switch AC Adapter** or a known working USB-C cable and plug it directly into a wall outlet rather than a power strip or hub.
+* Connect the cable straight into the bottom charging port of your console.
+* Let your Switch sit and charge undisturbed for at least twenty minutes.
+* Check that the green battery charging icon displays in the top corner and verify that the error code is gone.
+
+If none of these software and charging steps resolved the problem, your console is dealing with an internal component failure.
+
+STEP 5: IDENTIFY HARDWARE FAILURE AND CONTACT NINTENDO REPAIR
+* If the error code still persists after trying all these troubleshooting steps, your console is experiencing an internal hardware fault.
+* Error code 2101-0001 usually points to a damaged USB-C charging circuit or a blown internal power management chip.
+* On your phone or computer, open your web browser and head over to the official **Nintendo Support** website.
+* Navigate over to the **Consumer Service** section and click on **Set Up a Repair**.
+* Follow the on-screen steps to register your serial number and submit an official repair ticket with Nintendo technicians.
+
+And that's how you can troubleshoot and fix error code 2101-0001 on your Nintendo Switch.
+If none of these solutions work on your device, it's most likely an internal hardware issue, so you'll need to contact official customer support to set up a repair.
+If you found this tutorial helpful, don't forget to like the video and subscribe for more easy tech guides.
+Thanks for watching, and I'll catch you in the next one!

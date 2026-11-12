@@ -1,0 +1,16 @@
+﻿In this video, I'm gonna show you how to disable auto-archiving on your Nintendo Switch Lite in just a few simple steps.
+Let's get right into it!
+STEP 1: PREVENT AUTO-ARCHIVING IN DATA MANAGEMENT
+•  First go to your home screen.
+•  Move over to the gear icon for **System Settings**.
+•  Scroll down the left sidebar and select **Data Management**.
+•  Move over to the right side of the screen.
+•  Scroll down and click on **Manage Software**.
+•  Browse through your library and choose the specific game you want to protect from archiving.
+•  Inside the game settings, scroll down and select **Prevent Auto-Archiving**.
+•  Switch the toggle over here to **Yes** to keep the game permanently installed.
+•  Repeat this step for any other games you don't want the console to automatically touch.
+•  Return to your home menu and check that your protected games stay fully installed on your console.
+And that's how you can prevent auto-archiving on your Nintendo Switch.
+If this guide helped you out, don't forget to like and subscribe for more easy Nintendo Switch tips and tutorials.
+Thanks for watching, and I'll catch you in the next one.
