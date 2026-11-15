@@ -1,0 +1,17 @@
+Want to reset network settings on your Windows 11 PC fast?
+In this video, I'm gonna show you the exact step-by-step method to do it in under two minutes.
+Let's jump right in!
+
+STEP 1: RESET NETWORK SETTINGS
+* First, click on your **Start button**.
+* Open your **Settings** app.
+* From the left menu, click on **Network & internet**.
+* Scroll down and click on **Advanced network settings**.
+* Under more settings, click on **Network reset**.
+* Now click on the **Reset now** button.
+* Click on **Yes** to confirm the reset.
+* And let your PC restart to finish the process.
+
+And that's how you can easily reset network settings in Windows 11!
+Did this solve your network connection issue? Let me know down in the comments.
+If this video helped you out, please drop a like and subscribe for more easy tech guides. Thanks for watching, and I'll catch you in the next one!

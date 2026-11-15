@@ -1,0 +1,76 @@
+Is your iPhone 18 Pro or Pro Max screen suddenly unresponsive to touch?
+Don't worry—I've got a quick step-by-step fix that'll solve this problem in just a couple of minutes.
+So let's get started!
+
+SOLUTION 1: CHECK BACKGROUND INDEXING
+* First, let's open up your **Settings** app.
+* Scroll down and tap on **General**.
+* From here, tap on **About**.
+* Check if there is an **Indexing** notification on screen.
+* If indexing is active, plug in your charger.
+* Give your iPhone an hour to finish indexing.
+* And check if your touch responsiveness returns.
+
+Now, if background indexing isn't the cause and your screen is completely frozen, let's perform a force restart to clear out any stubborn system bugs.
+
+SOLUTION 2: FORCE RESTART YOUR IPHONE
+* First, quickly press and release **Volume Up**.
+* Next, quickly press and release **Volume Down**.
+* Now press and hold the **Side button**.
+* Keep holding even if the power slider appears.
+* Keep holding through the black screen.
+* Release the **Side button** when the **Apple logo** appears.
+* Give your iPhone a moment to reboot.
+* And test if your touch screen responds normally.
+
+Still having delayed or unresponsive taps? That could be an accessibility touch setting causing delays, so let's check that next.
+
+SOLUTION 3: TURN OFF TOUCH ACCOMMODATIONS
+* Open up your **Settings** app.
+* Scroll down and tap on **Accessibility**.
+* Under physical and motor, select **Touch**.
+* Look for **Touch Accommodations** in the list.
+* Tap right into **Touch Accommodations**.
+* Go ahead and toggle the switch to **OFF**.
+* And test your screen to see if touch delay is gone.
+
+If your screen is still acting up, running low on free space can bottleneck touch performance, so let's enable automatic app offloading to free up storage.
+
+SOLUTION 4: TURN ON OFFLOAD UNUSED APPS
+* Open up your **Settings** app.
+* Scroll all the way down to **Apps**.
+* Go ahead and tap on **Apps**.
+* Scroll through and select **App Store**.
+* Now scroll all the way to the bottom.
+* Look for the **Offload Unused Apps** option.
+* Switch the toggle right next to it to **ON**.
+* This automatically clears storage without deleting your data.
+* And verify that the toggle is turned **ON**.
+
+If enabling app offloading didn't solve it, your phone might be dealing with an early iOS release bug, so let's check for an update.
+
+SOLUTION 5: UPDATE IOS
+* Open up your **Settings** app once again.
+* Tap on **General** from the menu.
+* Right near the top, tap on **Software Update**.
+* Let your iPhone check for available updates.
+* If an update appears, tap on **Update Now**.
+* Enter your passcode if prompted.
+* Let your iPhone install the update and reboot.
+* And check your touch screen after it powers on.
+
+If software fixes didn't work, an external accessory might be interfering with the touch digitizer, so let's inspect that in our final step.
+
+SOLUTION 6: REMOVE SCREEN PROTECTOR AND CLEAN SCREEN
+* Check your screen for thick or cracked tempered glass.
+* Gently peel off your **screen protector**.
+* Take a soft microfiber cloth.
+* Wipe off any moisture, oils, or residue.
+* Remove any bulky case touching the display edges.
+* And test your bare screen with clean, dry fingers.
+
+If none of these solutions solved the problem, it's most likely an internal screen hardware failure, so you'll need to contact official Apple Support for a repair.
+Otherwise, your touch screen should now be working completely back to normal!
+Which of these solutions fixed it on your phone? Let me know down in the comments.
+If this video helped you out, please drop a like and subscribe for more easy tech guides.
+Thanks for watching, and see you in the next one!

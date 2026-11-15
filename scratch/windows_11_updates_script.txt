@@ -1,0 +1,35 @@
+Want to pause or stop Windows 11 automatic updates fast?
+In this video, I'm gonna show you the exact step-by-step method to disable them in under two minutes.
+Let's jump right in!
+
+STEP 1: DISABLE THE WINDOWS UPDATE SERVICE
+* First, click on your **Start button** on the taskbar.
+* Type " services " into the search box.
+* Now click on the **Services** app.
+* Scroll all the way down through the list.
+* Locate and double-click on **Windows Update**.
+* Click on the **Startup type** drop-down menu.
+* Go ahead and select **Disabled**.
+* And click on **Apply** to save your changes.
+
+Now, Windows can sometimes attempt to restart disabled services in the background, so let's make sure it takes no action if it fails.
+
+STEP 2: PREVENT THE SERVICE FROM RESTARTING
+* Click on the **Recovery** tab at the top.
+* Click the drop-down menu next to **First failure**.
+* Select **Take No Action** from the menu.
+* Now click on **Apply**.
+* And click on **OK** to close the window.
+
+Now that the service is disabled from booting up, let's stop the active update process that's currently running.
+
+STEP 3: STOP THE ACTIVE UPDATE SERVICE
+* Double-click on **Windows Update** once more.
+* Under **Service status**, click right on **Stop**.
+* Let's give it a few seconds to halt.
+* Click on **OK** to save and exit.
+* And go ahead and close the **Services** window.
+
+Your Windows 11 updates should now be completely paused and under your total control!
+If you ran into any hiccups along the way, drop a comment below and I'll help you out.
+Make sure to like and subscribe to support the channel. Thanks for watching, and see you next time!
