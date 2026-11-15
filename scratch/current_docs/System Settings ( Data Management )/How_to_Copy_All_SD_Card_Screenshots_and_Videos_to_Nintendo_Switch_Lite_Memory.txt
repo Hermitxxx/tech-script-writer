@@ -1,0 +1,14 @@
+﻿Want to copy all your screenshots and videos from your SD card straight to your Nintendo Switch Lite memory?
+In this video, I'm gonna show you how to transfer everything in just a few simple steps.
+Let's get right into it!
+* First up, go to your home screen.
+* Move over to the **gear icon** for **System Settings**.
+* Scroll down the left sidebar and select **Data Management**.
+* Then go to **Manage Screenshots and Videos** on the right menu.
+* Select **microSD Card** from the left menu.
+* Select **Copy All Screenshots and Videos to System Memory**.
+* Wait for the progress bar to finish copying all your files.
+* Select **OK** once the transfer is complete.
+And that's how you can copy all your SD card screenshots and videos to your Nintendo Switch Lite memory.
+If you found this tutorial helpful, don't forget to like the video and subscribe for more easy tech guides.
+Thanks for watching, and I'll catch you in the next one!

@@ -1,0 +1,27 @@
+﻿Want to quickly transfer your Nintendo Switch Lite screenshots directly to your Android phone?
+In this video, I'm gonna show you how to send them wirelessly in seconds using QR codes.
+Let's get right into it!
+
+STEP 1: CHOOSE SCREENSHOTS ON NINTENDO SWITCH
+* First, let's head to your home screen.
+* Move over to the blue **Album** icon.
+* Open the screenshot you want to transfer.
+* Press the " A " button on your console.
+* Click on **Send to Smartphone**.
+* And leave the first **QR code** open on screen.
+
+Now grab your Android phone so we can connect to your Switch and download your photos.
+
+STEP 2: SCAN QR CODES ON ANDROID
+* Open the **Camera** app on your phone.
+* Point your camera at the first **QR code**.
+* Tap on the network prompt and hit **Connect**.
+* Now point your camera at the second **QR code**.
+* Tap the website link that appears on screen.
+* In your browser, long-press the image and tap **Download image**.
+* Check that the screenshot appears in your **Gallery**.
+* And on your Switch, select **End** to disconnect.
+
+And that's how you can easily send Nintendo Switch Lite screenshots to your Android phone!
+If this video helped you out, please drop a like and subscribe for more easy tech guides.
+Thanks for watching, and I'll catch you in the next one!

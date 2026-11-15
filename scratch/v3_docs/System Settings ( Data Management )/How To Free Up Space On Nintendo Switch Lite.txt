@@ -1,0 +1,45 @@
+﻿Running out of storage space on your Nintendo Switch Lite and need room for more games?
+In this video, I'm gonna walk you through the three best methods to free up space fast.
+Let's get right into it!
+
+METHOD 1: QUICK ARCHIVE UNPLAYED GAMES
+* First, let's head to your home screen.
+* Move over to the **gear icon** for **System Settings**.
+* Scroll down the left sidebar and select **Data Management**.
+* On the right menu, tap on **Quick Archive**.
+* Check the boxes next to games you aren't playing.
+* Move over to the right and select **Archive Data**.
+* Confirm by choosing **Archive**.
+* Keep in mind your save data remains completely safe.
+* Now return to your home screen.
+* And check that your storage space is freed up.
+
+Now, if you want to keep your games installed, let's move them directly to your microSD card.
+
+METHOD 2: MOVE GAMES TO MICROSD CARD
+* Open up **System Settings** from your home screen.
+* Scroll down the left sidebar and select **Data Management**.
+* On the right menu, tap **Move Data Between System / microSD Card**.
+* Choose **Move to microSD Card** from the options.
+* Select the games or DLC you want to move.
+* Move over to the right and click **Move Data**.
+* Confirm by choosing **Move**.
+* Give it a few moments to copy files over.
+* And check your storage to verify internal memory is freed.
+
+If you still need extra gigabytes, let's clear out bulky captured videos and screenshots.
+
+METHOD 3: DELETE CAPTURED VIDEOS AND SCREENSHOTS
+* Head back to your home screen.
+* Move over to the blue **Album** icon.
+* Filter by **Videos Only** to find your largest files.
+* Press the " X " button to open manage options.
+* Check all the video clips you no longer need.
+* Move over to the right side and click **Delete**.
+* Confirm by choosing **Delete** once more.
+* Now return to your home screen.
+* And check that your available storage space has increased.
+
+And that's how you can easily free up storage on your Nintendo Switch Lite!
+If this video helped you out, please drop a like and subscribe for more easy tech guides.
+Thanks for watching, and I'll catch you in the next one!

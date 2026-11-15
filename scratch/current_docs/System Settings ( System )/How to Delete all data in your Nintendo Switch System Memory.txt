@@ -1,0 +1,16 @@
+﻿In this video, I'm gonna show you how to delete all data in your Nintendo Switch Lite in just a few simple steps.
+Before we get into it make sure to remove the microSD card from your console. Otherwise, all the software on your microSD card will be deleted.So, let’s jump right into it.
+* First go to your home screen.
+* Move over to the **gear icon** for **System Settings**.
+* Scroll all the way down the left sidebar and select **System**.
+* After entering into **System**, scroll down to the very bottom and choose **Formatting Options**.
+* Once inside **Formatting Options**, scroll to the bottom and click on **Initialize Console**.
+* Review the warning screen explaining that all save data, screenshots, and user accounts will be permanently wiped from system memory.
+* Click on **Next** to proceed.
+* Again, click on **Next** in the new popup.
+* Note that your console must remain connected to the internet during this step so it can safely unlink your Nintendo Account.
+* Confirm the system memory wipe by selecting **Initialize**.
+* Wait a few minutes for the system wipe to complete, and verify that your console restarts to the fresh initial setup screen.
+So, that's how you can delete all data in the system memory on your Nintendo Switch Lite.
+If you found this tutorial helpful, don't forget to like the video and subscribe for more easy tech guides.
+Thanks for watching, and I'll catch you in the next one!

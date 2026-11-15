@@ -1,0 +1,16 @@
+﻿Want to stop your Nintendo Switch Lite from automatically updating games in the background?
+In this video, I'm gonna show you how to turn off auto-updates in just a few quick seconds.
+Let's get right into it!
+
+* First, let's head to your home screen.
+* Move over to the **gear icon** for **System Settings**.
+* Scroll down the left sidebar and select **System**.
+* On the right menu, look for **Auto-Update Software**.
+* Go ahead and switch this setting to **Off**.
+* This stops games from downloading updates in sleep mode.
+* Now head back to your home screen.
+* And verify that your setting is active.
+
+And that's how you can easily disable automatic game updates on your Nintendo Switch Lite!
+If this guide helped you out, please drop a like and subscribe for more quick Nintendo Switch tips.
+Thanks for watching, and I'll catch you in the next one!

@@ -1,0 +1,29 @@
+Wondering whether you have the original Nintendo Switch V1 or the upgraded V2 model with better battery life?
+In this video, I'm gonna show you two foolproof ways to verify your exact model in seconds.
+Let's get right into it!
+
+STEP 1: CHECK THE MODEL NUMBER ON THE BACK OF THE CONSOLE
+* First, flip your Nintendo Switch console over to look at the back casing.
+* Locate the small printed regulatory text directly beneath the **Nintendo Switch logo**.
+* Find the label that starts with **MOD**.
+* If the text displays **HAC-001**, you have the original **V1** model released in 2017.
+* If the text displays **HAC-001(-01)** with a dash zero one at the end, you have the upgraded **V2** model with improved battery life.
+* If you still have the original retail box, note that **V1** boxes feature a hand docking the console on a white background, while **V2** boxes have a solid red background.
+
+If the text on the back of your console is worn down, scratched off, or covered by a protective skin, don't worry—you can check your serial number directly inside your system settings.
+
+STEP 2: CHECK THE SERIAL NUMBER IN SYSTEM SETTINGS
+* First go to your home screen.
+* Move over to the **gear icon** on the bottom toolbar for **System Settings**.
+* Scroll all the way down the left sidebar and select **System**.
+* After entering into **System**, scroll down towards the bottom and choose **Serial Information**.
+* Look at the top entry listed under **Console**.
+* Alternatively, check the white barcode sticker on the bottom edge next to the **USB-C port**.
+* If your serial number begins with **XAW**, you have a **V1** console.
+* If your serial number begins with **XKW**, you have a **V2** console.
+* Press the physical **Home button** on your controller to return to your home screen.
+
+And that's how you can easily tell whether you have a Nintendo Switch V1 or V2.
+Remember, the V2 gives you almost double the battery life, while unpatched V1 models are popular for homebrew and custom software.
+If you found this tutorial helpful, don't forget to like the video and subscribe for more easy tech guides.
+Thanks for watching, and I'll catch you in the next one!

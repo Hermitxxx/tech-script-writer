@@ -1,0 +1,27 @@
+﻿Want to quickly transfer your Nintendo Switch Lite screenshots directly to your iPhone?
+In this video, I'm gonna show you how to send your captures wirelessly in just a few simple taps.
+Let's get right into it!
+
+STEP 1: CHOOSE SCREENSHOTS ON NINTENDO SWITCH
+* First, let's head to your home screen.
+* Open the **Album** from the bottom toolbar.
+* Open the screenshot you want to send.
+* Press the " A " button on your console.
+* From the menu, select **Send to Smartphone**.
+* And leave the first **QR code** open on your screen.
+
+Now grab your iPhone so we can connect to your Switch and download your photos.
+
+STEP 2: SCAN QR CODES ON IPHONE
+* Open up the **Camera** app on your iPhone.
+* Point your camera at the first **QR code**.
+* Tap the network prompt and hit **Connect**.
+* Now point your camera at the second **QR code**.
+* Tap the website link that appears on screen.
+* In Safari, tap the blue **Download** button.
+* Check that your screenshot appears in **Photos**.
+* And on your Switch, select **End** to disconnect.
+
+And that's how you can easily copy Nintendo Switch Lite screenshots to your iPhone!
+If this video helped you out, please drop a like and subscribe for more easy tech guides.
+Thanks for watching, and I'll catch you in the next one!

@@ -1,0 +1,36 @@
+﻿Are you getting the frustrating error code 2101-0001 on your Nintendo Switch Lite and can't use your console?
+In this video, I'm gonna walk you through the top fixes to troubleshoot and resolve this error in minutes.
+Let's get right into it!
+FIX 1: PERFORM A FULL RESTART ON YOUR CONSOLE**
+* First, press and hold down the **POWER Button** on the top of your console for at least three seconds.
+* Select **Power Options** from the popup menu.
+* Now choose **Restart**.
+* If your screen is completely frozen on the error display, hold down the **POWER Button** for a full twelve seconds to force a hard shutdown, then press it once to power it back on.
+* Verify that your Switch reboots cleanly to the home screen without the error code returning.
+If restarting your Switch didn't resolve the issue and the error pops back up, let's check for any missing system updates that might contain an official stability patch.
+FIX 2: CHECK FOR A SYSTEM UPDATE**
+* From your home screen, navigate over to the **gear icon** on the bottom toolbar for **System Settings**.
+* Scroll all the way down the left sidebar and click on **System**.
+* Hit **System Update** at the very top of the list.
+* The console will automatically check for any pending software updates.
+* If an update is available, choose **Update** to begin downloading and installing the new firmware.
+* Wait for the console to install the update and reboot.
+If updating your console still didn't clear the error, a corrupted memory card might be causing a power conflict, so let's remove your microSD card next.
+FIX 3: REMOVE THE MICROSD CARD**
+* Press and hold the **POWER Button** for three seconds.
+* Click on **Power Options** and select **Turn Off**.
+* Flip your Nintendo Switch around to the back and gently takeout the **microSD** card.
+* Inspect the card pins for any dirt or damage, and leave the card out of the console for now.
+* Press the **POWER Button** to turn your console back on.
+* Confirm that your console boots smoothly into your home screen without triggering the error code.
+If the error code is still persisting with the card removed, the problem could be tied to power delivery, so let's test a direct connection with a different charging adapter or cable.
+FIX 4: TEST A DIFFERENT CHARGING ADAPTER OR CABLE**
+* Unplug your Switch from the dock and disconnect any attached charging cables.
+* Take a close look at the **USB-C port** on the bottom of the console to make sure there is no lint, debris, or bent pins.
+* Grab an official **Nintendo Switch AC Adapter** or a known working USB-C cable and plug it directly into a wall outlet rather than a power strip or hub.
+* Connect the cable to your console.
+* Let your Switch sit and charge undisturbed for at least twenty minutes.
+* Check that the green battery charging icon displays in the top corner and verify that the error code is gone.
+If none of these solutions work on your device, it's most likely an internal hardware issue, so you'll need to contact official customer support to set up a repair.
+If you found this tutorial helpful, don't forget to like the video and subscribe for more easy tech guides.
+Thanks for watching, and I'll catch you in the next one!

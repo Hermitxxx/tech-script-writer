@@ -1,0 +1,18 @@
+﻿Need to properly format a microSD card on your Nintendo Switch Lite?
+In this video, I'm gonna show you how to format it directly from system settings in seconds.
+Let's get right into it!
+
+* First, let's head to your home screen.
+* Move over to the **gear icon** for **System Settings**.
+* Scroll all the way down and select **System**.
+* Scroll down to the bottom and select **Formatting Options**.
+* From here, choose **Format microSD Card**.
+* Review the warning and select **Continue**.
+* Confirm by choosing **Format** to erase the card.
+* Give your console a moment to restart automatically.
+* Head into **Data Management** inside **System Settings**.
+* And verify that your microSD card is active and ready.
+
+And that's how you can properly format a microSD card on your Nintendo Switch Lite!
+If this tutorial helped you out, please drop a like and subscribe for more easy tech guides.
+Thanks for watching, and I'll catch you in the next one!

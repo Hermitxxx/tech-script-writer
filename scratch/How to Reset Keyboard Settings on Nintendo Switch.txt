@@ -1,0 +1,32 @@
+Want to clear annoying typos or wipe custom predictive text suggestions from your Nintendo Switch keyboard?
+In this video, I'm gonna show you how to reset your keyboard dictionary back to factory defaults in seconds.
+Let's get right into it!
+
+STEP 1: RESET KEYBOARD DICTIONARY IN SYSTEM SETTINGS
+* First go to your home screen.
+* Move over to the **gear icon** on the bottom toolbar for **System Settings**.
+* Scroll all the way down the left sidebar and select **System**.
+* After entering into **System**, scroll down to the very bottom and choose **Formatting Options**.
+* Enter your PIN if you have **Parental Controls** turned on.
+* Once inside **Formatting Options**, click on **Reset Keyboard**.
+* Pick the specific user profile whose keyboard history you want to clear.
+* Review the on-screen prompt and hit **Reset**.
+* Keep in mind that this only erases custom learned words and will not delete any game save data.
+* Click on **OK** once the confirmation notice appears.
+* Check that your predictive text dictionary is reset to factory defaults.
+
+If you have multiple user profiles on your console, or want to verify that your predictive suggestions are wiped, let's open up a quick text field to test your fresh keyboard.
+
+STEP 2: TEST YOUR KEYBOARD IN THE USER NICKNAME MENU
+* Press the physical **Home button** on your controller to return to your home screen.
+* Move up to the top left corner and select your **User Profile icon**.
+* Once inside your user page, head down and click on **User Settings**.
+* Choose **Nickname** to open up the on-screen virtual keyboard.
+* Type a few test letters into the input box.
+* Verify that your old personalized word predictions and typos no longer appear above the keys.
+* Press the physical **Home button** once more to return to your home screen.
+
+And that's how you can easily reset your keyboard settings on your Nintendo Switch.
+If you found this tutorial helpful, don't forget to like the video and subscribe for more easy tech guides.
+Thanks for watching, and I'll catch you in the next one!
+

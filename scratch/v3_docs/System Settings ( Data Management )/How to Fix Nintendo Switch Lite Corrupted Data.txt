@@ -1,0 +1,20 @@
+﻿Is your Nintendo Switch Lite showing a corrupted data error when you try to launch a game?
+In this video, I'm gonna show you how to scan and fix corrupted data in just a few simple steps.
+Let's get right into it!
+
+* First, let's head to your home screen.
+* Move over to the **gear icon** for **System Settings**.
+* Scroll down the left sidebar and select **Data Management**.
+* On the right menu, tap on **Manage Software**.
+* Choose the specific game showing the corrupted error.
+* Scroll to the bottom and click **Check for Corrupted Data**.
+* Give your console a few moments to scan the files.
+* If corruption is found, go ahead and select **Redownload**.
+* This replaces damaged files without touching your save data.
+* If no corruption was found, tap **OK** to finish.
+* Now launch your game.
+* And verify that it opens smoothly without any errors.
+
+And that's pretty much all there is to fixing corrupted data on your Nintendo Switch Lite!
+If this video helped you out, please drop a like and subscribe for more easy tech guides.
+Thanks for watching, and I'll catch you in the next one!

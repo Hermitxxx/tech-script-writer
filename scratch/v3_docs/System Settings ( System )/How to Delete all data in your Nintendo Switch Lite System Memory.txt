@@ -1,0 +1,20 @@
+﻿Need to factory reset your Nintendo Switch Lite and start completely fresh?
+In this video, I'm gonna show you how to wipe all system memory in just a few simple steps.
+Make sure you remove your microSD card first so its data stays safe, and let's get right into it!
+
+* First, let's head to your home screen.
+* Move over to the **gear icon** for **System Settings**.
+* Scroll all the way down and select **System**.
+* Now scroll to the bottom and choose **Formatting Options**.
+* From here, scroll down and select **Initialize Console**.
+* Review the warning screen on your display.
+* Go ahead and click on **Next**.
+* Click on **Next** once more on the popup.
+* Make sure your console stays connected to the internet.
+* Confirm the wipe by selecting **Initialize**.
+* Give your console a few minutes to finish resetting.
+* And verify that it boots into the initial setup screen.
+
+And that's pretty much all there is to factory resetting your Nintendo Switch Lite!
+If this video helped you out, please drop a like and subscribe for more easy tech guides.
+Thanks for watching, and I'll catch you in the next one!

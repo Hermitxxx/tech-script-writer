@@ -1,0 +1,17 @@
+﻿Want to delete old game save data or start completely fresh on your Nintendo Switch Lite?
+In this video, I'm gonna show you how to safely delete game save data in just a few simple steps.
+Let's get right into it!
+* First go to your home screen.
+* Move over to the **gear icon** for **System Settings**.
+* Scroll down the left sidebar and select **Data Management**.
+* Move over to the right side of the screen.
+* Scroll all the way down to the bottom and click on **Delete Save Data**.
+* Choose the game whose save data you want to remove.
+* Pick **Delete Save Data for [User]**, or choose **Delete All Save Data for This Software**.
+* Confirm by clicking on **Delete Save Data** on the warning prompt.
+* Wait a moment for the process to finish, then hit **OK**.
+* Check that your game save data is now completely cleared from your console.
+* Press the physical **Home button** on your Nintendo Switch Lite to head back to your home screen.
+And that's how you can delete game save data on your Nintendo Switch Lite.
+If you found this tutorial helpful, don't forget to like the video and subscribe for more easy tech guides.
+Thanks for watching, and I'll catch you in the next one!

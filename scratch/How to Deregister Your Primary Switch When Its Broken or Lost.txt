@@ -1,0 +1,31 @@
+Did your Nintendo Switch break, get lost, or get stolen while it was still set as your primary console?
+In this video, I'm gonna show you how to remotely deregister it from any web browser and set up your new Switch in seconds.
+Let's get right into it!
+
+STEP 1: DEREGISTER BROKEN SWITCH FROM NINTENDO ACCOUNT
+* Open any web browser on your phone or computer.
+* In the address bar, type " accounts.nintendo.com " and hit enter.
+* Log into your account using your email address and password.
+* From the left sidebar, click on **Shop Menu**.
+* After entering into **Shop Menu**, scroll down to the bottom and select **Deregister Primary Console**.
+* Enter your Nintendo Account password again to verify your identity.
+* Review the on-screen prompt and choose **Deregister**.
+* Check that your screen confirms your previous console has been deregistered.
+* Keep in mind that Nintendo allows remote website deregistration once every twelve months.
+
+Once your old console has been unlinked through the website, let's head over to your replacement Nintendo Switch to make it your active primary system.
+
+STEP 2: REGISTER YOUR REPLACEMENT SWITCH AS PRIMARY
+* First, turn on your new or replacement Nintendo Switch.
+* Make sure you are signed into the user profile linked to your Nintendo Account.
+* From your home screen, move over to the orange bag icon for **Nintendo eShop**.
+* Once the store loads, head up to your **User Profile icon** in the top-right corner.
+* Scroll down the account information screen to the **Primary Console** section.
+* Check that your console status now displays that it is registered as your primary console.
+* Press the physical **Home button** on your controller to return to your home screen.
+
+And that's how you can remotely deregister a broken or lost primary Switch and set up your new console.
+Keep in mind Nintendo allows website deregistration once per year, so if your account reaches that limit, you'll need to contact official Nintendo support for assistance.
+If you found this tutorial helpful, don't forget to like the video and subscribe for more easy tech guides.
+Thanks for watching, and I'll catch you in the next one!
+

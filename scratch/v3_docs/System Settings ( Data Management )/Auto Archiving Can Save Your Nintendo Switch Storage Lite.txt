@@ -1,0 +1,18 @@
+﻿Want to save gigabytes of storage on your Nintendo Switch Lite without losing your save data?
+In this video, I'm gonna show you how auto-archiving frees up storage automatically in just a few taps.
+Let's get right into it!
+
+* First, let's head to your home screen.
+* Move over to the **gear icon** for **System Settings**.
+* Scroll down the left sidebar and select **Data Management**.
+* On the right menu, tap on **Manage Software**.
+* Choose the specific game you want to manage.
+* Inside the game options, select **Prevent Auto-Archiving**.
+* Go ahead and set this option to **No**.
+* This lets your Switch archive unplayed games automatically.
+* Keep in mind your save data stays completely safe.
+* And check that your storage is now managed automatically.
+
+And that's how enabling auto-archiving saves storage on your Nintendo Switch Lite!
+If this guide helped you out, please drop a like and subscribe for more easy tips.
+Thanks for watching, and I'll catch you in the next one!

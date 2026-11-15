@@ -1,0 +1,44 @@
+﻿Getting the "Not enough free space" error when downloading a new game on your Nintendo Switch Lite?
+In this video, I'm gonna show you the top fixes to free up space fast so your downloads can finish.
+Let's get right into it!
+
+SOLUTION 1: QUICK ARCHIVE UNPLAYED GAMES
+* First, let's head to your home screen.
+* Move over to the **gear icon** for **System Settings**.
+* Scroll down the left sidebar and select **Data Management**.
+* On the right menu, tap on **Quick Archive**.
+* Check the boxes next to games you aren't playing.
+* Move over to the right and select **Archive Data**.
+* Confirm by choosing **Archive**.
+* Keep in mind your save data stays completely safe.
+* Now head back to your home screen.
+* And check if your game download resumes.
+
+Now, if you want to keep all your games installed, let's transfer some of them over to your microSD card.
+
+SOLUTION 2: MOVE DATA TO MICROSD CARD
+* From your home screen, open **System Settings**.
+* Scroll down and select **Data Management**.
+* On the right menu, select **Move Data Between System / microSD Card**.
+* Choose **Move to microSD Card** from the options.
+* Check the games or downloadable content you want to transfer.
+* Move over to the right and click **Move Data**.
+* Confirm by choosing **Move**.
+* Give it a few moments to copy files over.
+* And check your storage to confirm internal memory is freed.
+
+If you still need extra space for that download, let's clear out large captured videos and screenshots.
+
+SOLUTION 3: DELETE CAPTURED SCREENSHOTS AND VIDEOS
+* First, head back to your home screen.
+* Move over to the blue **Album** icon.
+* Inside the album, press the " X " button.
+* Check the boxes next to unwanted clips or screenshots.
+* Move over to the right and select **Delete**.
+* Confirm by choosing **Delete** once more.
+* Now return to your home screen.
+* And verify that your game download now starts downloading.
+
+And that's how you can easily fix not enough free space on your Nintendo Switch Lite!
+If this video helped you out, please drop a like and subscribe for more easy tech guides.
+Thanks for watching, and I'll catch you in the next one!

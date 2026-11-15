@@ -1,0 +1,41 @@
+﻿Want to transfer your Nintendo Switch Lite screenshots and gameplay videos over to your PC?
+In this video, I'm gonna show you the quickest ways to copy your clips using a USB cable or microSD card.
+Let's get right into it!
+
+STEP 1: TRANSFER VIA USB CABLE
+* From your home screen, open **System Settings**.
+* Scroll down and select **Data Management**.
+* On the right menu, select **Manage Screenshots and Videos**.
+* Select **Copy to a Computer via USB Connection**.
+* Plug a USB-C cable into your Switch and PC.
+* Check your Switch screen until it says **Connected to the computer**.
+* Now open **File Explorer** on your PC.
+* Click on **This PC** on the left.
+* Double-click on **Nintendo Switch** under your drives.
+* Open the **Album** folder.
+* Browse into your specific game folder.
+* Select the clips or screenshots you want.
+* Copy and paste them onto your computer.
+* Look back at your Switch and select **Disconnect**.
+* And safely unplug the cable from your console.
+
+Now, if your PC doesn't recognize the USB connection, you can also transfer files using your microSD card.
+
+STEP 2: TRANSFER FILES USING MICROSD CARD
+* Hold down the **POWER Button** for three seconds.
+* Choose **Power Options** from the popup menu.
+* Select **Turn Off** to shut down completely.
+* Gently take out your **microSD card**.
+* Insert the card into your computer's reader.
+* Open **File Explorer** on your PC.
+* Click on your **microSD card** drive on the left.
+* Open the **Nintendo** folder.
+* Open the **Album** folder.
+* Browse into your game folder.
+* Copy and paste your desired clips to your PC.
+* Safely eject the card from your computer.
+* And slide the card back into your Switch.
+
+And that's how you can easily copy screenshots and videos from your Nintendo Switch Lite to your PC!
+If this video helped you out, please drop a like and subscribe for more tech guides.
+Thanks for watching, and I'll catch you in the next one!

@@ -1,0 +1,13 @@
+﻿In today’s video, I'm gonna show you how to reset the keyboard settings on your Nintendo Switch Lite back to factory defaults in some easy quick steps.
+So, Let's get right into it!
+* First go to your home screen.
+* Move over to the **gear icon** for **System Settings**.
+* Scroll all the way down the left sidebar and select **System**.
+* After entering into **System**, scroll down to the very bottom and choose **Formatting Options**.
+* Once inside **Formatting Options**, click on **Reset Keyboard**.
+* Review the on-screen prompt and hit **Reset**.
+* Keep in mind that this only erases custom learned words and will not delete any game save data.
+* Click on **OK** once the confirmation notice appears.
+And that’s it, the keyboard settings of your Nintendo Switch Lite was just rolled back to factory defaults.
+If you found this tutorial helpful, don't forget to like the video and subscribe for more easy tech guides.
+Thanks for watching, and I'll catch you in the next one!

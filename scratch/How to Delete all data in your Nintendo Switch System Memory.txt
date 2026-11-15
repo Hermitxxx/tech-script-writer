@@ -1,0 +1,36 @@
+Are you getting ready to sell, trade in, or give away your Nintendo Switch and need to wipe everything clean?
+In this video, I'm gonna show you how to delete all data in your system memory and restore factory settings.
+Let's get right into it!
+
+STEP 1: INITIALIZE CONSOLE AND WIPE SYSTEM MEMORY IN SETTINGS
+* First go to your home screen.
+* Move over to the **gear icon** on the bottom toolbar for **System Settings**.
+* Scroll all the way down the left sidebar and select **System**.
+* After entering into **System**, scroll down to the very bottom and choose **Formatting Options**.
+* Enter your PIN if you have **Parental Controls** turned on.
+* Once inside **Formatting Options**, scroll to the bottom and click on **Initialize Console**.
+* Review the warning screen explaining that all save data, screenshots, and user accounts will be permanently wiped from system memory.
+* Click on **Next** to proceed.
+* Note that your console must remain connected to the internet during this step so it can safely unlink your Nintendo Account.
+* Confirm the system memory wipe by selecting **Initialize**.
+* Wait a few minutes for the progress bar to complete and allow the console to restart.
+* Verify that your screen powers back on with the initial out-of-the-box language setup prompt.
+
+If your console is frozen, stuck in a boot loop, or you can't reach your home menu to open settings, you can wipe your system memory directly using physical buttons in Recovery Mode.
+
+STEP 2: WIPE SYSTEM MEMORY DIRECTLY FROM RECOVERY MODE
+* Press and hold the physical **POWER Button** on the top edge of your console for three seconds.
+* Select **Power Options** from the popup menu.
+* Click on **Turn Off**.
+* If your console is completely frozen or unresponsive, hold down the physical **POWER Button** for twelve seconds to force a complete shutdown.
+* Now press and hold down both the physical **Volume Up button** and **Volume Down button** at the same time.
+* While keeping both volume buttons held down, press the physical **POWER Button** once.
+* Continue holding both volume buttons until the **Maintenance Mode** recovery screen appears.
+* Once inside the recovery menu, scroll down and select **Initialize Console**.
+* Review the on-screen notice and confirm by choosing **Initialize**.
+* Wait a few minutes for the system wipe to complete, and verify that your console restarts to the fresh initial setup screen.
+
+And that's how you can delete all data in your system memory and completely reset your Nintendo Switch.
+If you found this tutorial helpful, don't forget to like the video and subscribe for more easy tech guides.
+Thanks for watching, and I'll catch you in the next one!
+

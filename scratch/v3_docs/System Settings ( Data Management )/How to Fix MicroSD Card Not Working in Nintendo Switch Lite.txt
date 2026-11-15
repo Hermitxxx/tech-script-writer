@@ -1,0 +1,44 @@
+﻿Is your microSD card not recognized or working properly on your Nintendo Switch Lite?
+In this video, I'm gonna walk you through the top fixes to get your memory card detected in minutes.
+Let's get right into it!
+
+SOLUTION 1: SAFELY RE-INSERT AND RESTART CONSOLE
+* First, press and hold the **POWER Button** for three seconds.
+* Choose **Power Options** from the popup menu.
+* Select **Turn Off** to shut down completely.
+* Open the card slot cover on the bottom.
+* Gently take out your microSD card.
+* Inspect the gold pins for dust or dirt.
+* Slide the microSD card firmly back into place.
+* Press the **POWER Button** to turn your console back **ON**.
+* Now head into **System Settings**.
+* Scroll down and select **Data Management**.
+* And check if your **microSD Card** is now recognized.
+
+Now, if your console still doesn't detect the card, you might be missing a required system update, so let's check for that next.
+
+SOLUTION 2: INSTALL LATEST SYSTEM UPDATE
+* Open up **System Settings** from your home screen.
+* Scroll all the way down and select **System**.
+* Tap on **System Update** at the very top.
+* If an update appears, select **Update**.
+* Give your console a moment to restart.
+* Now head back into **Data Management**.
+* And verify if your storage card shows up.
+
+Still having trouble? That usually means the card's file format is glitched, so in this final step, let's reformat the card directly on your Switch.
+
+SOLUTION 3: FORMAT MICROSD CARD
+* From your home screen, open **System Settings**.
+* Scroll all the way down and select **System**.
+* Scroll to the bottom and select **Formatting Options**.
+* From here, choose **Format microSD Card**.
+* Review the warning and select **Continue**.
+* Confirm by choosing **Format** to erase the card.
+* Give your console a moment to restart automatically.
+* Now head into **Data Management**.
+* And verify that your microSD card is active and ready.
+
+And that's how you can fix a microSD card not working on your Nintendo Switch Lite!
+If this video helped you out, please drop a like and subscribe for more easy tech guides.
+Thanks for watching, and I'll catch you in the next one!

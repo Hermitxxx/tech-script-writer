@@ -1,0 +1,41 @@
+﻿Are you getting the frustrating error code 2101-0001 on your Nintendo Switch Lite and can't use your console?
+In this video, I'm gonna walk you through the top fixes to troubleshoot and resolve this error in minutes.
+Let's get right into it!
+
+FIX 1: PERFORM A FULL RESTART
+* Press and hold the **POWER Button** for three seconds.
+* Select **Power Options** from the popup menu.
+* Go ahead and choose **Restart**.
+* If your screen is frozen, hold the **POWER Button** for twelve seconds.
+* Press the **POWER Button** once more to turn it back on.
+* And verify that your Switch reboots cleanly to your home screen.
+
+Now, if restarting didn't resolve the issue, let's disconnect any accessories and inspect your charging port.
+
+FIX 2: INSPECT CHARGING PORT AND ACCESSORIES
+* Unplug your charging cable, headphones, and any accessories.
+* Check your **USB-C port** for dust or bent pins.
+* Gently blow into the port to clear out loose debris.
+* Plug your official Nintendo charger directly into a wall outlet.
+* Leave your Switch plugged in for fifteen minutes without touching it.
+* Press the **POWER Button** to turn the console on.
+* And verify that the battery charging icon appears without the error.
+
+Still running into that error code? Let's boot into Safe Mode to reset your system cache without deleting any save data.
+
+FIX 3: SAFE MODE CACHE RESET
+* Turn off your Nintendo Switch completely.
+* Press and hold both **Volume Up** and **Volume Down** buttons.
+* While holding volume, press the **POWER Button** once.
+* Keep holding both volume buttons until **Maintenance Mode** appears.
+* Select **Initialize Console Without Deleting Save Data**.
+* Go ahead and click on **Next**.
+* Confirm by choosing **Initialize Console Without Deleting Save Data**.
+* Wait for the console to complete the reset.
+* And verify that your console boots up smoothly without the error.
+
+Now, if you've tried all of these solutions and the error code still won't go away, that points to a damaged power management chip on the motherboard, so you'll need to contact official Nintendo support to set up a repair.
+
+And that's how you can troubleshoot error code 2101-0001 on your Nintendo Switch Lite!
+If this video helped you out, please drop a like and subscribe for more easy tech guides.
+Thanks for watching, and I'll catch you in the next one!

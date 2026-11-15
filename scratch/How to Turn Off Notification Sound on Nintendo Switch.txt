@@ -1,0 +1,17 @@
+Want to stop your Nintendo Switch from making chime sounds every time you get a notification?
+In this video, I'm gonna show you how to turn off your notification sounds in seconds.
+Let's get right into it!
+
+STEP 1: TURN OFF NOTIFICATION SOUND IN SYSTEM SETTINGS
+* First, go to your home screen.
+* Move over to the **gear icon** on the bottom toolbar for **System Settings**.
+* Scroll down the left sidebar and select **Notifications**.
+* Move over to the right side of the screen.
+* Scroll down to find the **Notification Sound** option.
+* Switch the toggle to **OFF** to silence all notification chimes.
+* Check that the setting now displays **OFF**.
+* Press the physical **Home button** on your controller to return to your home screen.
+
+And that's how you can easily turn off notification sounds on your Nintendo Switch.
+If you found this tutorial helpful, don't forget to like the video and subscribe for more easy tech guides.
+Thanks for watching, and I'll catch you in the next one!

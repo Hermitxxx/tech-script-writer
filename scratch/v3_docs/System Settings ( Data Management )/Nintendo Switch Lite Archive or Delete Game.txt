@@ -1,0 +1,31 @@
+﻿Wondering whether you should archive or delete a game on your Nintendo Switch Lite?
+In this video, I'm gonna show you the exact difference and how to do both to free up storage space.
+Let's get right into it!
+
+METHOD 1: HOW TO ARCHIVE A GAME
+* First, let's head to your home screen.
+* Move over to the **gear icon** for **System Settings**.
+* Scroll down the left sidebar and select **Data Management**.
+* On the right menu, tap on **Manage Software**.
+* Choose the specific game you want to archive.
+* Click on **Archive Software**.
+* Confirm by choosing **Archive**.
+* Keep in mind your save data stays completely safe.
+* Notice that the game icon stays on your home screen with a cloud icon.
+* And check that you can tap the icon anytime to redownload.
+
+Now, if you want to completely remove the game and declutter your home screen, let's permanently delete it.
+
+METHOD 2: HOW TO DELETE A GAME
+* From your home screen, open **System Settings**.
+* Scroll down and select **Data Management**.
+* On the right menu, tap on **Manage Software**.
+* Choose the game you want to remove.
+* Go ahead and select **Delete Software**.
+* Confirm by choosing **Delete** once more.
+* Keep in mind your save data is stored separately and won't be erased.
+* And check your home screen to verify the game icon is gone.
+
+And that's the difference between archiving and deleting games on your Nintendo Switch Lite!
+If this video helped you out, please drop a like and subscribe for more easy tech guides.
+Thanks for watching, and I'll catch you in the next one!

@@ -1,0 +1,17 @@
+﻿Is your Nintendo Switch Lite running slow or running into weird eShop and browser glitches?
+In this video, I'm gonna show you how to quickly reset your cache to smooth things out.
+Let's get right into it!
+
+* First, let's head to your home screen.
+* Move over to the **gear icon** for **System Settings**.
+* Scroll all the way down and select **System**.
+* Scroll to the bottom and select **Formatting Options**.
+* From here, click on **Reset Cache**.
+* Review the prompt and go ahead and hit **Reset**.
+* Keep in mind your games and save data stay safe.
+* Tap on **OK** once the confirmation appears.
+* And check that your console is running smoothly.
+
+And that's how you can easily reset your cache on your Nintendo Switch Lite!
+If this quick tutorial helped you out, please drop a like and subscribe for more guides.
+Thanks for watching, and I'll catch you in the next one!

@@ -1,0 +1,32 @@
+Need to wipe your microSD card or prepare a brand new memory card for your Nintendo Switch?
+In this video, I'm gonna show you how to properly format your card directly in system settings in just a few clicks.
+Let's get right into it!
+
+STEP 1: FORMAT MICROSD CARD IN SYSTEM SETTINGS
+* First go to your home screen.
+* Move over to the **gear icon** on the bottom toolbar for **System Settings**.
+* Scroll all the way down the left sidebar and select **System**.
+* After entering into **System**, scroll down to the very bottom and choose **Formatting Options**.
+* Enter your PIN if you have **Parental Controls** turned on.
+* Once inside **Formatting Options**, scroll down and click on **Format microSD Card**.
+* Read the warning prompt on your screen and choose **Continue**.
+* Keep in mind that formatting will delete all downloaded software and screenshots on the card, but your game save progress stays safe on your console memory.
+* Confirm the format by hitting **Format**.
+* Wait a few moments while your console formats the card and restarts automatically.
+
+Once your console powers back up to your home screen, let's verify that your storage is recognized and set your captures to save directly to your clean SD card.
+
+STEP 2: VERIFY STORAGE SPACE AND SET SAVE LOCATION
+* From your home screen, head back into the **gear icon** for **System Settings**.
+* Scroll down the left sidebar and select **Data Management**.
+* Check the right side of your screen to verify that your **microSD Card** displays clean, available storage space.
+* After entering into **Data Management**, scroll down and click on **Manage Screenshots and Videos**.
+* Once inside **Manage Screenshots and Videos**, choose **Save Location**.
+* Switch your save location to **microSD Card**.
+* Check that your save location now displays **microSD Card**.
+* Press the physical **Home button** on your controller to return to your home screen.
+
+And that's how you can properly format a microSD card on your Nintendo Switch.
+If you found this tutorial helpful, don't forget to like the video and subscribe for more easy tech guides.
+Thanks for watching, and I'll catch you in the next one!
+

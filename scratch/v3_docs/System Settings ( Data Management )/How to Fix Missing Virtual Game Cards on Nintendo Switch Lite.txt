@@ -1,0 +1,42 @@
+﻿Are your Virtual Game Cards missing or not showing up on your Nintendo Switch Lite?
+In this video, I'm gonna show you how to restore all your missing game cards in just a few minutes.
+Let's get right into it!
+
+SOLUTION 1: DEREGISTER CONSOLE IN NINTENDO ESHOP
+* First, let's head to your home screen.
+* Move over to the orange **Nintendo eShop** icon.
+* Select the user profile linked to your account.
+* Tap on your **Profile Icon** in the top-right corner.
+* Scroll down the left menu and select **Settings**.
+* On the right panel, look for **Primary Console**.
+* Go ahead and click on **Deregister**.
+* Enter your Nintendo Account password if prompted.
+* Confirm by selecting **Deregister** again.
+* Press the **Home button** to return to your home screen.
+* Reopen **Nintendo eShop** to re-sync your licenses.
+* And check if your virtual cards pop back up.
+
+Now, if your virtual game cards are still not showing up, let's clear out any corrupted system cache files.
+
+SOLUTION 2: CLEAR SYSTEM CACHE
+* From your home screen, open **System Settings**.
+* Scroll all the way down and select **System**.
+* Scroll to the bottom and tap on **Formatting Options**.
+* From here, choose **Reset Cache**.
+* Confirm by choosing **Reset** to clear the cache.
+* And verify that the cache reset confirmation appears.
+
+Now that your cache is cleared, let's perform a quick reboot so your console can rebuild its license index.
+
+SOLUTION 3: RESTART YOUR CONSOLE
+* Press and hold the **POWER Button** for three seconds.
+* Choose **Power Options** from the popup menu.
+* Go ahead and tap on **Restart**.
+* Give your console a moment to reboot.
+* Make sure your Switch reconnects to Wi-Fi.
+* Open the **Virtual Game Cards** menu.
+* And verify that all your cards are now restored.
+
+And that's how you can easily fix missing virtual game cards on your Nintendo Switch Lite!
+If this video helped you out, please drop a like and subscribe for more easy tech guides.
+Thanks for watching, and I'll catch you in the next one!

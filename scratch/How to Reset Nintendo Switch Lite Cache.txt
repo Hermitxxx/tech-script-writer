@@ -1,0 +1,31 @@
+Is your Nintendo Switch Lite running slow or running into weird Nintendo eShop and browser glitches?
+In this video, I'm gonna show you how to quickly reset your cache to get everything running smoothly again.
+Let's jump right in!
+
+STEP 1: RESET USER AND BROWSER CACHE IN FORMATTING OPTIONS
+* First go to your home screen.
+* Move over to the **gear icon** for **System Settings**.
+* Scroll all the way down the left sidebar and select **System**.
+* After entering into **System**, scroll down to the very bottom and choose **Formatting Options**.
+* Once inside **Formatting Options**, click on **Reset Cache**.
+* Pick the user profile you want to clear.
+* Review the on-screen prompt and hit **Reset**.
+* Keep in mind that your downloaded games and save data will not be deleted.
+* Click on **OK** once the confirmation message appears.
+* Check that your user cache is now completely refreshed.
+
+If clearing your profile cache didn't completely resolve the lagging or crashing, temporary system memory cache might still be stuck in RAM, so let's perform a full power cycle to flush it out.
+
+STEP 2: PERFORM A FULL POWER CYCLE TO CLEAR SYSTEM RAM CACHE
+* Locate the physical **POWER Button** on the top left edge of your console.
+* Press and hold down the **POWER Button** for about three seconds.
+* Choose **Power Options** from the popup menu.
+* Click on **Restart**.
+* If your console is completely frozen, hold down the physical **POWER Button** for twelve seconds to force a hardware shutdown.
+* Press the **POWER Button** once again to turn the console back on.
+* Wait a few moments for the Nintendo logo to appear and load your home menu.
+* Verify that your system memory cache is cleared and your games run smoothly.
+
+And that's how you can easily reset your cache on your Nintendo Switch Lite.
+If you found this tutorial helpful, don't forget to like the video and subscribe for more easy tech guides.
+Thanks for watching, and I'll catch you in the next one!

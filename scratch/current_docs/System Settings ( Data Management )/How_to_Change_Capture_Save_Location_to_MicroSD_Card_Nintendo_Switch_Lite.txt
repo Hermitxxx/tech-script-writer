@@ -1,0 +1,13 @@
+﻿Want your new Nintendo Switch Lite screenshots and gameplay videos to automatically save to your SD card?
+In this video, I'm gonna show you how to change your default save location in seconds.
+Let's get right into it!
+* First go to your home screen.
+* Move over to the gear icon for **System Settings**.
+* Scroll down the left sidebar and select **Data Management**.
+* Then scroll down and go to **Manage Screenshots and Videos** on the right menu.
+* Click on **Save Location**.
+* After that select **microSD Card** from the popup menu.
+* Check that your save location now displays **microSD Card**.
+And that's how you can set your default capture save location to your microSD card on your Nintendo Switch Lite.
+If you found this tutorial helpful, don't forget to like the video and subscribe for more easy tech guides.
+Thanks for watching, and I'll catch you in the next one!

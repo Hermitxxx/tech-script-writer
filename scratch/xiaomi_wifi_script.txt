@@ -1,0 +1,52 @@
+Is your Xiaomi phone having trouble connecting to Wi-Fi, or is your wireless connection constantly dropping out?
+In today's video, I'm gonna walk you through the easiest and most effective fixes to get your Wi-Fi back up and running smoothly in no time.
+Let's get right into it!
+
+STEP 1: TOGGLE WI-FI AND AIRPLANE MODE
+* First, swipe down to open your **Control Center**.
+* Go ahead and turn **Wi-Fi** off.
+* Now tap on **Airplane Mode** to turn it on.
+* Let's wait about ten seconds.
+* Turn **Airplane Mode** back off.
+* And turn your **Wi-Fi** back on.
+* Check if your network reconnects.
+
+Now, if that quick toggle didn't solve the issue for you, don't worry—let's restart your phone to clear out any stubborn background bugs.
+
+STEP 2: REBOOT YOUR PHONE
+* Press and hold the **Power button** on the side.
+* Tap on **Reboot**.
+* Tap **Reboot** once more to confirm.
+* Give your phone a minute to restart.
+* Once it turns back on, check if your Wi-Fi connects.
+
+Still having trouble connecting? That usually means your saved network settings are corrupted, so let's completely refresh them in this next step.
+
+STEP 3: RESET NETWORK SETTINGS
+* Open your **Settings** app.
+* Scroll down and tap on **Connection & sharing**.
+* Scroll to the bottom and select **Reset Wi-Fi, mobile networks, and Bluetooth**.
+* Tap on **Reset settings** at the bottom.
+* Enter your lock screen PIN if prompted.
+* Tap on **OK** to confirm.
+* Wait a few seconds for the reset to finish.
+* Now open **Wi-Fi**, select your network, and enter your password.
+
+If resetting your network still didn't do the trick, let's check for any pending system updates that might fix the bug.
+
+STEP 4: CHECK FOR SYSTEM UPDATES
+* Make sure your **Mobile data** is turned on.
+* Open your **Settings** app.
+* Tap on **About phone** at the top.
+* Tap on your **OS version** banner.
+* Let it check for any new updates.
+* If an update is available, tap on **Download update**.
+* Once it finishes, tap on **Reboot now**.
+* And check your Wi-Fi when your phone restarts.
+
+Now, if you've tried all of these fixes and your Wi-Fi still won't connect at all, that points to an internal hardware issue with your Wi-Fi antenna, so you'll need to visit an authorized service center for a repair.
+
+And that's pretty much all there is to fixing Wi-Fi issues on your Xiaomi phone!
+Which of these fixes worked for you? Let me know down in the comments.
+If this video helped you out, please drop a like and subscribe for more quick tech guides.
+Thanks for watching, and I'll catch you in the next one!

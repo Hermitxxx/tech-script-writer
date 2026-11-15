@@ -1,0 +1,16 @@
+﻿Need to quickly clear out all the screenshots and videos on your Nintendo Switch Lite to free up storage?
+In this video, I'm gonna show you how to wipe all your captures in just a few simple steps.
+Let's get right into it!
+
+* First, let's head to your home screen.
+* Move over to the **gear icon** for **System Settings**.
+* Scroll down the left sidebar and select **Data Management**.
+* On the right menu, select **Manage Screenshots and Videos**.
+* Choose either **System Memory** or **microSD Card**.
+* Scroll down and select **Delete All Screenshots and Videos**.
+* Confirm by choosing **Delete Screenshots and Videos**.
+* And check your storage to verify all space is freed up.
+
+And that's how you can easily delete all screenshots and videos on your Nintendo Switch Lite!
+If this video helped you out, please drop a like and subscribe for more easy tech guides.
+Thanks for watching, and I'll catch you in the next one!

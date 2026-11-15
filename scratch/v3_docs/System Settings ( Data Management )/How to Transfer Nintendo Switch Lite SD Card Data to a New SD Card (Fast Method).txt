@@ -1,0 +1,36 @@
+﻿Upgrading to a bigger microSD card on your Nintendo Switch Lite and want to transfer all your data?
+In this video, I'm gonna show you how to safely transfer everything to your new card without losing anything.
+Let's get right into it!
+
+* First, press and hold the **POWER Button** for three seconds.
+* Choose **Power Options** from the popup menu.
+* Select **Turn Off** to shut down completely.
+* Open the card slot cover on your console.
+* Gently remove your old microSD card.
+* Insert your old card into your computer's reader.
+* Open up **File Explorer** on your PC.
+* Click on your microSD card drive on the left.
+* Right-click on the folder named **Nintendo**.
+* Select **Copy**.
+* Head over to your computer's **Desktop**.
+* Right-click on an empty space and choose **Paste**.
+* Let the **Nintendo** folder finish copying completely.
+* Safely eject your old microSD card from your PC.
+* Now insert your new microSD card into your reader.
+* Open up **File Explorer** and click your new card.
+* Head back to the backup folder on your **Desktop**.
+* Right-click on the **Nintendo** folder.
+* Select **Copy**.
+* Go back to your new microSD card in **File Explorer**.
+* Right-click in the drive and choose **Paste**.
+* Wait for the folder to finish copying over.
+* Safely eject your new card from your computer.
+* Slide the new card firmly into your Nintendo Switch.
+* Press the **POWER Button** to turn your console on.
+* Open **System Settings** and select **Data Management**.
+* Check the **microSD Card** section to verify your space.
+* And launch a game to confirm everything loads properly.
+
+And that's how you can transfer all your Nintendo Switch Lite SD card data to a new card!
+If this video helped you out, please drop a like and subscribe for more tech guides.
+Thanks for watching, and I'll catch you in the next one!
