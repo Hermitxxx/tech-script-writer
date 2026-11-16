@@ -1,0 +1,34 @@
+Is your Windows 11 Wi-Fi suddenly gone and the option won't show up?
+Don't worry—I've got a quick step-by-step fix that'll bring it right back in minutes.
+So let's get started!
+
+STEP 1: RESTART AND CONFIGURE WLAN AUTOCONFIG SERVICE
+* First, click on your **Start button** on the taskbar.
+* Next, type " services " into the search box.
+* From the results, click right on the **Services** app.
+* Once inside, scroll all the way down the list.
+* Locate and right-click on **WLAN AutoConfig**.
+* From the menu, select **Restart**.
+* Let's give it a few moments to restart.
+* Next, double-click on **WLAN AutoConfig**.
+* Click on the **Startup type** drop-down menu.
+* From the options, select **Automatic**.
+* Go ahead and click on **Apply**.
+* And then click on **OK** to save your changes.
+
+Now, if your Wi-Fi icon still hasn't appeared, your wireless network adapter might simply be frozen, so let's quickly reset it.
+
+STEP 2: RESTART YOUR WI-FI NETWORK ADAPTER
+* First, press the windows key and " R " on your keyboard.
+* In the Run box, type " ncpa.cpl " and press Enter.
+* Once the connections window opens, locate your **Wi-Fi** adapter.
+* Right-click directly on your **Wi-Fi** adapter.
+* From the context menu, select **Disable**.
+* Let's wait about five seconds.
+* Next, right-click on your **Wi-Fi** adapter again.
+* From here, go ahead and select **Enable**.
+* And finally, check if your Wi-Fi option reappears.
+
+If none of these software fixes brought your Wi-Fi back, it's most likely an issue with your internal Wi-Fi card, so you'll want to inspect your hardware.
+Otherwise, your Wi-Fi option should now be completely restored and working normally!
+Drop a like if this saved your day, subscribe for more quick fixes, and I'll catch you in the next video!

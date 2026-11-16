@@ -46,7 +46,7 @@ You are **not** writing a dry user manual, nor are you writing a wordy essay. Yo
 
 ## 3. The Conversational & Concise Sub-Step Architecture (CRITICAL)
 
-The core standard in v3 is balancing **conversational audience dialogue** with **short, concise sub-steps**.
+The core standard in v3 is balancing **conversational audience dialogue** with **short, concise sub-steps** using **natural conversational connectors**.
 
 ### A. The 5-to-10 Word Conversational Rhythm
 Sub-steps must be snappy and direct (typically **5 to 10 words per bullet**). Never drag out bullets with redundant explanatory clauses (like *"so that your phone shuts down all wireless connections completely"* or *"to make sure your settings take effect"*).
@@ -58,43 +58,76 @@ Sub-steps must be snappy and direct (typically **5 to 10 words per bullet**). Ne
   * Once you're inside here, scroll all the way to the bottom and select **Reset Wi-Fi, mobile networks, and Bluetooth**.
   * Wait a couple of seconds for the reset confirmation message to appear at the bottom.
 
-* ❌ **TOO ROBOTIC / STIFF (Manual command form — zero personality):**
+* ❌ **TOO ROBOTIC / DISCONNECTED (Manual command form — zero flow):**
   * Open Control Center.
   * Turn Wi-Fi off.
   * Turn Airplane Mode on.
   * Wait 10 seconds.
+  * Turn Airplane Mode off.
+  * Turn Wi-Fi on.
 
-* ✅ **PERFECT: CONVERSATIONAL & CONCISE (v3 Studio Standard):**
+* ✅ **PERFECT: CONVERSATIONAL WITH CONNECTORS (v3 Studio Standard):**
   * First, swipe down to open your **Control Center**.
-  * Go ahead and turn **Wi-Fi** off.
-  * Now tap on **Airplane Mode** to turn it on.
+  * Next, go ahead and turn **Wi-Fi** off.
+  * Now tap right on **Airplane Mode** to turn it on.
   * Let's wait about ten seconds.
-  * Turn **Airplane Mode** back off.
+  * From here, turn **Airplane Mode** back off.
   * And turn your **Wi-Fi** back on.
-  * Check if your network reconnects.
+  * Finally, check if your network reconnects.
 
 ---
 
-### B. Concise Conversational Stems Palette
-Keep conversational lead-ins tight and energetic:
+### B. Conversational Sub-Step Connectors & Flow Architecture (CRITICAL)
+
+Connectors are the spoken navigational glue that transforms a dry, robotic checklist into an organic, live screen recording conversation. They guide the viewer's eyes across the screen smoothly and give the voiceover artist an effortless, natural flow from click to click.
+
+#### The Golden Rules for Connectors:
+1. **Never Bloat the Bullet:** The sub-step must remain strictly **atomic** (one physical action per line) and **concise** (5 to 10 words). Connectors must be tight and natural (1 to 3 words).
+2. **Establish Natural Progression:** Every bullet should feel linked to the preceding action, rather than jumping abruptly without context.
+3. **Reflect Real-Time Screen States:** Use context-aware connectors when transitioning between apps, menus, dialogs, and search lists.
+
+#### The Categorized Sub-Step Connector Palette:
+
+* **1. Sequence & Progression Connectors (Connecting Consecutive Actions):**
+  * *Opening:* `"First, ..."`, `"First off, let's ..."`, `"To start, ..."`
+  * *Sequential Flow:* `"Next, ..."`, `"Next up, ..."`, `"Then, ..."`, `"From there, ..."`, `"After that, ..."`, `"Right after that, ..."`
+  * *Directive Flow:* `"Now, go ahead and ..."`, `"From here, ..."`, `"Right here, ..."`
+  * *Wrap-Up / Final Action:* `"And finally, ..."`, `"Lastly, ..."`, `"And to finish up, ..."`, `"And then click on ..."`
+
+* **2. Screen & Context State Connectors (Bridging Menu Transitions):**
+  * *Entering an App / Screen:* `"Once that opens, ..."`, `"Once inside here, ..."`, `"Once you're in this menu, ..."`
+  * *Search Results & Lists:* `"From the results, ..."`, `"From the search list, ..."`, `"Looking down the list, ..."`
+  * *Modal Dialogs & Alerts:* `"When the confirmation prompt appears, ..."`, `"When prompted on screen, ..."`
+  * *Spatial Orientation:* `"Right below that, ..."`, `"Down at the bottom, ..."`, `"In the top-right corner, ..."`
+
+* **3. Pacing & Observation Connectors (Guiding Waiting Time & Results):**
+  * *"Let's wait about ten seconds."*
+  * *"Give it a few moments to load."*
+  * *"As soon as your device reboots, ..."*
+  * *"Finally, check if that blue checkmark appears."*
+
+---
+
+### C. Concise Conversational Stems Palette
+Combine connectors with energetic action verbs:
 
 * **Starting & Navigation:**
   * *"First, swipe down to open..."*
-  * *"Let's open up your **Settings** app."*
-  * *"From your home screen, head into..."*
-* **In-Menu Action:**
-  * *"Scroll down and tap on..."*
-  * *"Now go ahead and select..."*
-  * *"From here, tap right into..."*
-  * *"Click on **[Option]** from the menu."*
+  * *"To start, let's open up your **Settings** app."*
+  * *"From your home screen, head right into..."*
+* **In-Menu Navigation:**
+  * *"Next, scroll down and tap on..."*
+  * *"From here, go ahead and select..."*
+  * *"From this menu, tap right into..."*
+  * *"Once inside, click on **[Option]**."*
 * **Toggles & Inputs:**
-  * *"Switch this toggle to **OFF**."*
-  * *"Now turn **[Feature]** back on."*
-  * *"Type "**[Text]**" into the box."*
+  * *"Now, switch this toggle to **OFF**."*
+  * *"Right after that, turn **[Feature]** back on."*
+  * *"Next, type "**[Text]**" into the box."*
 * **Pacing & Confirmation:**
   * *"Let's give it about ten seconds."*
   * *"Wait a few moments for it to restart."*
-  * *"Check if your **[icon/setting]** shows up."*
+  * *"And finally, check if your **[icon/setting]** shows up."*
   * *"Make sure that blue checkmark appears."*
 
 ---
@@ -231,45 +264,45 @@ Let's get right into it!
 
 STEP 1: TOGGLE WI-FI AND AIRPLANE MODE
 * First, swipe down to open your **Control Center**.
-* Go ahead and turn **Wi-Fi** off.
-* Now tap on **Airplane Mode** to turn it on.
+* Next, go ahead and turn **Wi-Fi** off.
+* Now tap right on **Airplane Mode** to turn it on.
 * Let's wait about ten seconds.
-* Turn **Airplane Mode** back off.
+* From here, turn **Airplane Mode** back off.
 * And turn your **Wi-Fi** back on.
-* Check if your network reconnects.
+* Finally, check if your network reconnects.
 
 Now, if that quick toggle didn't solve the issue for you, don't worry—let's restart your phone to clear out any stubborn background bugs.
 
 STEP 2: REBOOT YOUR PHONE
-* Press and hold the **Power button** on the side.
-* Tap on **Reboot**.
-* Tap **Reboot** once more to confirm.
-* Give your phone a minute to restart.
-* Once it turns back on, check if your Wi-Fi connects.
+* First, press and hold the **Power button** on the side.
+* Next, tap on **Reboot**.
+* When prompted, tap **Reboot** once more to confirm.
+* Give your phone about a minute to restart.
+* And once it turns back on, check your Wi-Fi connection.
 
 Still having trouble connecting? That usually means your saved network settings are corrupted, so let's completely refresh them in this next step.
 
 STEP 3: RESET NETWORK SETTINGS
-* Open your **Settings** app.
-* Scroll down and tap on **Connection & sharing**.
-* Scroll to the bottom and select **Reset Wi-Fi, mobile networks, and Bluetooth**.
-* Tap on **Reset settings** at the bottom.
+* First, open up your **Settings** app.
+* Next, scroll down and tap on **Connection & sharing**.
+* From here, scroll to the bottom and select **Reset Wi-Fi, mobile networks, and Bluetooth**.
+* Now, tap on **Reset settings** at the bottom.
 * Enter your lock screen PIN if prompted.
-* Tap on **OK** to confirm.
-* Wait a few seconds for the reset to finish.
-* Now open **Wi-Fi**, select your network, and enter your password.
+* Tap on **OK** to confirm the reset.
+* Let's wait a few seconds for the reset to finish.
+* And finally, open **Wi-Fi** and reconnect to your network.
 
 If resetting your network still didn't do the trick, let's check for any pending system updates that might fix the bug.
 
 STEP 4: CHECK FOR SYSTEM UPDATES
-* Make sure your **Mobile data** is turned on.
-* Open your **Settings** app.
-* Tap on **About phone** at the top.
-* Tap on your **OS version** banner.
-* Let it check for any new updates.
-* If an update is available, tap on **Download update**.
+* First, make sure your **Mobile data** is turned on.
+* Next, open up your **Settings** app.
+* From the top of the menu, tap on **About phone**.
+* Now tap right on your **OS version** banner.
+* Let's give it a moment to check for updates.
+* If an update is ready, tap on **Download update**.
 * Once it finishes, tap on **Reboot now**.
-* And check your Wi-Fi when your phone restarts.
+* And finally, check your Wi-Fi when your phone restarts.
 
 Now, if you've tried all of these fixes and your Wi-Fi still won't connect at all, that points to an internal hardware issue with your Wi-Fi antenna, so you'll need to visit an authorized service center for a repair.
 
@@ -290,35 +323,35 @@ So let's get started!
 
 STEP 1: UNHIDE DESKTOP ICONS IN VIEW SETTINGS
 * First, right-click on any empty space on your desktop.
-* Hover your cursor over the **View** option.
-* Click right on **Show desktop icons**.
-* And check if your desktop icons pop right back up.
+* Next, hover your cursor right over **View**.
+* From the submenu, click on **Show desktop icons**.
+* And finally, check if your desktop icons pop right back up.
 
 Now, if your icons are still not showing up, your default system shortcuts might be turned off in Windows settings, so let's restore them next.
 
 STEP 2: RESTORE DEFAULT DESKTOP ICONS
-* First, open your Windows **Settings**.
+* First, open up your Windows **Settings**.
 * From the left menu, click on **Personalization**.
-* Scroll down and select the **Themes** tile.
+* Next, scroll down and select the **Themes** tile.
 * Under related settings, click on **Desktop icon settings**.
-* Near the bottom, click on **Restore Default**.
+* From the popup window, click on **Restore Default**.
 * Go ahead and click on **Apply**.
 * And then click on **OK** to save your changes.
-* Check your desktop to see if system icons appear.
+* Finally, check your desktop to see if your icons appear.
 
 Still missing some icons? That means your Windows icon cache has gotten corrupted, so let's delete that cache file to rebuild a fresh one.
 
 STEP 3: CLEAR CORRUPTED ICON CACHE VIA RUN
-* Press the windows key and " R " on your keyboard.
+* First, press the windows key and " R " on your keyboard.
 * In the Run box, type " appdata " and press Enter.
-* Double-click into the **Local** folder.
-* Click on **View** at the top of the window.
+* Next, double-click into the **Local** folder.
+* From the top bar, click on **View**.
 * Hover over **Show** and click on **Hidden items**.
-* Scroll down to find the file named **IconCache.db**.
+* Now scroll down to find the file named **IconCache.db**.
 * Right-click on **IconCache.db** and select **Delete**.
-* Now right-click on your taskbar and open **Task Manager**.
-* Find **Windows Explorer** in the process list.
-* And click on **Restart task** in the top-right corner.
+* Next, right-click on your taskbar and open **Task Manager**.
+* In the process list, locate **Windows Explorer**.
+* And finally, click on **Restart task** in the top-right corner.
 
 And that's how you can easily restore missing desktop icons in Windows 11!
 Which of these steps worked best for you? Let me know down in the comments.
@@ -339,24 +372,24 @@ STEP 1: DOWNLOAD STEAM FROM OFFICIAL SITE
 * First off, open your web browser on your Mac.
 * In the search bar, type " Steam for Mac ".
 * Press return on your keyboard.
-* Click on the official **Steam** website link.
-* Click on the blue **Install Steam** button.
+* From the results, click on the official **Steam** website link.
+* Next, click on the blue **Install Steam** button.
 * On the next page, click on the **Apple icon**.
-* Wait a few moments for the DMG installer to download.
-* And check your Downloads list to verify the file is ready.
+* Let's wait a few moments for the DMG installer to download.
+* And finally, check your Downloads list to verify the file is ready.
 
 Once the installer file is downloaded, let's copy the app into your system applications folder so it stays permanently installed.
 
 STEP 2: INSTALL STEAM TO APPLICATIONS
-* Open your **Downloads** folder.
-* Double-click on the downloaded **Steam.dmg** file.
-* Drag the **Steam** icon directly into the **Applications** folder shortcut.
-* Wait a few seconds for macOS to finish copying files.
-* Now open your **Applications** folder from Finder.
-* Double-click on the **Steam** app.
+* First, open up your **Downloads** folder.
+* Next, double-click on the downloaded **Steam.dmg** file.
+* From here, drag the **Steam** icon into the **Applications** folder shortcut.
+* Let's give macOS a few seconds to finish copying files.
+* Once that's done, open your **Applications** folder from Finder.
+* Next, double-click on the **Steam** app.
 * Click on **Open** when macOS asks for security confirmation.
 * Let Steam download its latest client updates automatically.
-* And verify that the Steam login screen appears.
+* And finally, verify that the Steam login screen appears.
 
 And that's pretty much all there is to downloading and installing Steam on your Mac!
 If this video got the job done for you, hit that like button, subscribe for more quick tutorials, and I'll see you in the next one!
@@ -372,13 +405,13 @@ In this video, I'll show you the exact step-by-step method to set it up in secon
 Let's jump right in!
 
 STEP 1: CHANGE DEFAULT SAVE LOCATION IN SETTINGS
-* First, let's head to your home screen.
+* To start, let's head over to your home screen.
 * Move over to the **gear icon** for **System Settings**.
-* Scroll down the left sidebar and select **Data Management**.
+* Next, scroll down the left sidebar and select **Data Management**.
 * On the right menu, select **Manage Screenshots and Videos**.
-* Go ahead and click on **Save Location**.
-* Select **microSD Card** from the popup menu.
-* And check that your save location now displays **microSD Card**.
+* From here, go ahead and click on **Save Location**.
+* Next, select **microSD Card** from the popup menu.
+* And finally, check that your save location displays **microSD Card**.
 
 And that's how you can easily set your default capture save location on Nintendo Switch Lite!
 Which setting do you use most? Let me know down in the comments.
@@ -398,40 +431,40 @@ Let's get right into it!
 STEP 1: POWER CYCLE PS5 CONSOLE
 * First, press and hold the **power button** on your console.
 * Keep holding until you hear two distinct beeps.
-* Unplug the power cord from the back of your PS5.
-* Disconnect the HDMI cable from your TV.
-* Wait a full sixty seconds for all power to drain.
-* Plug the HDMI cable back into a different TV port.
+* Next, unplug the power cord from the back of your PS5.
+* Now disconnect the HDMI cable from your TV.
+* Let's wait a full sixty seconds for all power to drain.
+* Next, plug the HDMI cable back into a different TV port.
 * Reconnect the power cable firmly into your PS5.
-* Turn your TV on and select the correct HDMI input.
-* Power your console on and check if display output returns.
+* Now turn your TV on and select the correct HDMI input.
+* And finally, power your console on and check display output.
 
 Now, if your screen is still black or freezing, let's boot into Safe Mode to clear out cached system bugs.
 
 STEP 2: BOOT INTO SAFE MODE AND CLEAR CACHE
-* Make sure your PS5 is completely powered off.
-* Press and hold the **power button** on the console.
+* First, make sure your PS5 is completely powered off.
+* Next, press and hold the **power button** on the console.
 * Release the button only after you hear the second beep.
-* Connect your DualSense controller using a USB-C data cable.
+* Now connect your DualSense controller using a USB-C data cable.
 * Press the **PS button** on your controller.
-* In the Safe Mode menu, scroll down to option five.
+* Once inside Safe Mode, scroll down to option five.
 * Select **Clear Cache and Rebuild Database**.
 * From here, choose **Clear System Software Cache**.
 * Confirm by selecting **OK**.
 * Give your PS5 a moment to restart automatically.
-* And check if your display turns back on normally.
+* And finally, check if your display turns back on normally.
 
 Still experiencing crashes or a black display? Let's rebuild your system database to fix corrupted drive indexing.
 
 STEP 3: REBUILD PS5 DATABASE
-* Power off your console completely once again.
-* Hold the **power button** until the second beep sounds.
+* First, power off your console completely once again.
+* Next, hold the **power button** until the second beep sounds.
 * Connect your controller and press the **PS button**.
-* Select option five for **Clear Cache and Rebuild Database**.
+* From the menu, select option five for **Clear Cache and Rebuild Database**.
 * This time, choose **Rebuild Database**.
-* Confirm by selecting **OK**.
+* When prompted, confirm by selecting **OK**.
 * Keep your console plugged in while the scan finishes.
-* And verify that your PS5 reboots smoothly to the home screen.
+* And finally, verify that your PS5 reboots smoothly to the home screen.
 
 If none of these software solutions solved the problem, it's most likely an internal HDMI port or power supply hardware failure with your PS5, so you'll want to contact official PlayStation support for a repair.
 Otherwise, your console should now be completely back to normal!
@@ -456,41 +489,41 @@ STEP 1: FORCE RESTART YOUR IPHONE
 * Keep holding through the black screen.
 * Release the **Side button** when the **Apple logo** appears.
 * Give your iPhone a moment to reboot.
-* And test if your touch screen responds normally.
+* And finally, test if your touch screen responds normally.
 
 Still having delayed or unresponsive taps? That could be an accessibility touch setting causing delays, so let's check that next.
 
 STEP 2: TURN OFF TOUCH ACCOMMODATIONS
-* Open up your **Settings** app.
-* Scroll down and tap on **Accessibility**.
+* First, open up your **Settings** app.
+* Next, scroll down and tap on **Accessibility**.
 * Under physical and motor, select **Touch**.
-* Look for **Touch Accommodations** in the list.
+* Looking down the list, locate **Touch Accommodations**.
 * Tap right into **Touch Accommodations**.
-* Go ahead and toggle the switch to **OFF**.
-* And test your screen to see if touch delay is gone.
+* From here, go ahead and toggle the switch to **OFF**.
+* And finally, test your screen to see if touch delay is gone.
 
 If your screen is still acting up, running low on free space can bottleneck touch performance, so let's enable automatic app offloading.
 
 STEP 3: TURN ON OFFLOAD UNUSED APPS
-* Open up your **Settings** app.
-* Scroll all the way down to **Apps**.
-* Go ahead and tap on **Apps**.
-* Scroll through and select **App Store**.
+* First, open up your **Settings** app.
+* Next, scroll all the way down to **Apps**.
+* Go ahead and tap right on **Apps**.
+* From the list, scroll through and select **App Store**.
 * Now scroll all the way to the bottom.
-* Look for the **Offload Unused Apps** option.
+* Locate the **Offload Unused Apps** option.
 * Switch the toggle right next to it to **ON**.
 * This automatically clears storage without deleting your data.
-* And verify that the toggle is turned **ON**.
+* And finally, verify that the toggle is turned **ON**.
 
 If software fixes didn't work, an external accessory might be interfering with the touch digitizer, so let's inspect that in our final step.
 
 STEP 4: REMOVE SCREEN PROTECTOR AND CLEAN SCREEN
-* Check your screen for thick or cracked tempered glass.
-* Gently peel off your **screen protector**.
+* First, check your screen for thick or cracked tempered glass.
+* Next, gently peel off your **screen protector**.
 * Take a soft microfiber cloth.
 * Wipe off any moisture, oils, or residue.
-* Remove any bulky case touching the display edges.
-* And test your bare screen with clean, dry fingers.
+* Next, remove any bulky case touching the display edges.
+* And finally, test your bare screen with clean, dry fingers.
 
 If none of these solutions solved the problem, it's most likely an internal screen hardware failure, so you'll need to contact official Apple Support for a repair.
 Otherwise, your touch screen should now be working completely back to normal!
@@ -523,3 +556,6 @@ Whenever the user requests a new script under `tech-vid-script-v3`:
 
 5. **Atomic Micro-Steps (STRICT):**
    Never combine two separate screen clicks or taps with "and". Keep each action atomic.
+
+6. **Conversational Sub-Step Connectors (STRICT):**
+   Weave natural conversational connectors (`First, ...`, `Next, ...`, `Once inside here, ...`, `Now, go ahead and ...`, `From the list, ...`, `When prompted, ...`, `And finally, ...`) into the start of sub-steps to ensure an organic, unbroken spoken flow during screen recording.

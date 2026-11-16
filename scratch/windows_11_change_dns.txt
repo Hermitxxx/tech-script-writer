@@ -1,0 +1,27 @@
+Want to change your DNS to 1.1.1.1 or 8.8.8.8 in Windows 11 fast?
+In this video, I'm gonna show you the exact step-by-step method to set it up in under two minutes.
+Let's jump right in!
+
+STEP 1: ACCESS MANUAL DNS SETTINGS
+* First, press the windows key and " I " on your keyboard.
+* Next, from the left menu, click on **Network & internet**.
+* Select your active connection, either **Ethernet** or **Wi-Fi**.
+* Looking down the page, locate **DNS server assignment**.
+* Click right on the **Edit** button next to it.
+* In the popup, click the drop-down menu.
+* Go ahead and change it to **Manual**.
+* Now, toggle the **IPv4** switch to **ON**.
+
+Now that IPv4 settings are open, you can enter either Cloudflare or Google DNS depending on your preference.
+
+STEP 2: CONFIGURE CLOUDFLARE OR GOOGLE DNS
+* For Cloudflare, type " 1.1.1.1 " into **Preferred DNS**.
+* Next, type " 1.0.0.1 " into **Alternate DNS**.
+* If you prefer Google, type " 8.8.8.8 " into **Preferred DNS**.
+* And type " 8.8.4.4 " into **Alternate DNS**.
+* Once your numbers are entered, click on **Save**.
+* And finally, check that your new DNS appears.
+
+And that's pretty much all there is to configuring custom DNS in Windows 11!
+Which DNS server did you end up choosing? Let me know down in the comments.
+If this video got the job done for you, hit that like button, subscribe for more quick tutorials, and I'll see you in the next one!
