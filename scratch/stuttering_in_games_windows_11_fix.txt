@@ -1,0 +1,37 @@
+If your games keep stuttering and dropping frames on Windows 11, then in this video I'm gonna show you three quick tweaks to completely fix it. So, let's get right into it!
+
+STEP 1: DISABLE MEMORY INTEGRITY TO STOP MICRO-STUTTER
+•  First, click on your **Start button**.
+•  Next, open up your **Settings**.
+•  From the left menu, select **Privacy & security**.
+•  At the top, click on **Windows Security**.
+•  Now, click right on **Device security**.
+•  Under Core isolation, click **Core isolation details**.
+•  From here, toggle **Memory integrity** off.
+•  When prompted, go ahead and click **Yes**.
+•  And finally, restart your computer to apply.
+
+If your games are still stuttering during intense scenes, this next background tweak will eliminate sudden disk and memory spikes.
+
+STEP 2: STOP SYSMAIN AND MEMORY COMPRESSION
+•  First, right-click on your **Start button**.
+•  From the list, select **Terminal (Admin)**.
+•  When the prompt appears, click on **Yes**.
+•  Type `Stop-Service SysMain -Force` and press **Enter**.
+•  Next, type `Set-Service SysMain -StartupType Disabled` and hit **Enter**.
+•  Right after, type `Disable-MMAgent -MemoryCompression` and press **Enter**.
+•  And finally, restart your PC to stop stutters.
+
+To prevent Windows from abruptly downclocking your processor mid-game, let's lock your system into full performance.
+
+STEP 3: SWITCH TO THE HIGH PERFORMANCE POWER PLAN
+•  First, right-click on your **Start button**.
+•  From the menu, click right on **Run**.
+•  In the box, type `powercfg.cpl` and click **OK**.
+•  Looking down, click on **Show additional plans**.
+•  Now choose the bubble for **High performance**.
+•  Finally, close out of the control panel.
+
+And that's how you can easily eliminate game stuttering on Windows 11!
+
+Your games should now run silky smooth with steady frame times. Which fix made the biggest difference for you? Let me know down in the comments below. Be sure to drop a like, hit subscribe for more PC optimization guides, and I'll see you in the next one!

@@ -1,0 +1,29 @@
+If your Windows 11 PC takes forever to boot up because of too many startup apps, then in this video I’m gonna show you a few quick ways to disable them.
+So, let's get right into it!
+
+STEP 1: TURN OFF STARTUP APPS IN SETTINGS
+* First, press the windows key and " I " on your keyboard.
+* Next, from the left sidebar, click on **Apps**.
+* Looking down the menu, select **Startup**.
+* Once inside, sort your list by **Startup impact**.
+* Locate any app you don't need on boot.
+* From here, switch the toggle right next to it to **OFF**.
+* Repeat this for any other non-essential apps.
+* And finally, close out of your **Settings** window.
+
+Now, while Windows Settings covers most apps, some heavier background launchers only show up in Task Manager, so let's check there next.
+
+STEP 2: DISABLE STARTUP APPS IN TASK MANAGER
+* First, right-click on your **Start button**.
+* From the menu, select **Task Manager**.
+* Next, from the left menu, click on **Startup apps**.
+* Looking down the list, review the **Startup impact** column.
+* Locate any heavy app like **Spotify** or **Discord**.
+* Right-click right on that app.
+* From the context menu, select **Disable**.
+* Repeat this for any other heavy background launchers.
+* And finally, close your **Task Manager** window.
+
+And that's pretty much all there is to managing startup apps in Windows 11!
+How much faster is your PC booting up now? Let me know down in the comments.
+If this video got the job done for you, hit that like button, subscribe for more quick tutorials, and I'll see you in the next one!

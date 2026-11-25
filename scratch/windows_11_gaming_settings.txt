@@ -1,0 +1,49 @@
+Are your games suddenly lagging and dropping FPS on Windows 11?
+Don't worry—in this video I'll show you the best settings to boost your performance, so let's get right into it!
+
+STEP 1: DISABLE MEMORY INTEGRITY AND VBS
+* First, press the windows key and " I " on your keyboard.
+* Next, from the left menu, click on **Privacy & security**.
+* Click right on **Windows Security**.
+* From here, select **Device security**.
+* Under core isolation, click on **Core isolation details**.
+* Switch the **Memory integrity** toggle to **OFF**.
+* When prompted, restart your PC to apply the change.
+
+Now that virtualization overhead is turned off, let's enable Windows Game Mode so your system prioritizes gaming performance over background apps.
+
+STEP 2: TURN ON WINDOWS GAME MODE
+* First, open up your Windows **Settings** app.
+* Next, from the left menu, click on **Gaming**.
+* From the options, select **Game Mode**.
+* Switch the toggle for **Game Mode** to **ON**.
+* This prioritizes your CPU and GPU for gameplay.
+* And prevents background downloads while playing games.
+
+With Game Mode active, let's enable optimizations for windowed games right inside your graphics settings to reduce input latency and eliminate stutter.
+
+STEP 3: TURN ON OPTIMIZATIONS FOR WINDOWED GAMES
+* First, head back to your **Settings** app.
+* From the left menu, click on **System**.
+* Select **Display** from the list.
+* Scroll down and click right on **Graphics**.
+* Under default settings, locate **Optimizations for windowed games**.
+* Switch the toggle right next to it to **ON**.
+* This reduces input latency across all your games.
+* And restart your game to apply the changes.
+
+For our final optimization, let's stop Windows from throttling your processor by unlocking the High Performance power plan.
+
+STEP 4: ENABLE HIGH PERFORMANCE POWER PLAN
+* First, click on your **Start button**.
+* Type " Control Panel " into the search box.
+* From the results, click on **Control Panel**.
+* Click right on **Hardware and Sound**.
+* Next, select **Power Options** from the menu.
+* Click the drop-down for **Show additional plans**.
+* From here, select the **High performance** plan.
+* And finally, close out of the window.
+
+Your Windows 11 frame rates and overall gaming smoothness should now be noticeably improved!
+Which of these settings gave you the biggest FPS boost? Let me know down in the comments.
+Make sure to like and subscribe for more easy tech guides. Thanks for watching, and see you next time!

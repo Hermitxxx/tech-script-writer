@@ -1,0 +1,29 @@
+Want to make old games and legacy software work on Windows 11 fast?
+
+In this video, I'll show you how to use Windows 11's built-in Compatibility Mode to get any classic game or app running smoothly, so let's jump right in!
+
+STEP 1: ENABLE COMPATIBILITY MODE IN PROPERTIES
+•  First, right-click on your game's shortcut.
+•  From the context menu, select **Properties**.
+•  At the top, click the **Compatibility** tab.
+•  Check **Run this program in compatibility mode**.
+•  Click on the drop-down menu below.
+•  From the list, select **Windows 7**.
+•  Check the box for **Run as administrator**.
+•  Down at the bottom, click on **Apply**.
+•  And then click on **OK** to save.
+
+If your game still crashes or throws an error, you can let Windows automatically diagnose and apply the exact legacy settings.
+
+STEP 2: RUN THE COMPATIBILITY TROUBLESHOOTER
+•  Right-click right on that same game file.
+•  From the menu, click **Show more options**.
+•  Select the option for **Troubleshoot compatibility**.
+•  When the window opens, click **Try recommended settings**.
+•  Next, click on the **Test the program** button.
+•  If your game launches, click on **Next**.
+•  Finally, select **Yes, save these settings**.
+
+Your retro games and legacy software should now launch and run smoothly on Windows 11!
+
+Which old game or app were you trying to play? Let me know down in the comments below. Drop a like, subscribe for more quick Windows tutorials, and I'll see you in the next one!

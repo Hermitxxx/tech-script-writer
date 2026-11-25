@@ -1,0 +1,42 @@
+If your Windows 11 PC has been feeling slow and sluggish, then in this video I'm gonna show you how to make it fast again with a few quick tweaks. So, let's get right into it!
+
+STEP 1: LAUNCH CHRIS TITUS TECH UTILITY
+•  First, right-click on your **Start button**.
+•  From the menu, select **Terminal (Admin)**.
+•  When prompted by Windows, click on **Yes**.
+•  Type **irm christitus.com/win | iex** and press Enter.
+•  Give the tool a few moments to download.
+•  The **Chris Titus Tech** tool will now open.
+
+Now that the utility is open, let's clear out hidden system junk and temporary cache slowing down your drives.
+
+STEP 2: CLEAN DISK JUNK AND TEMPORARY FILES
+•  First, click right on the **Tweaks** tab.
+•  Under the options, check **Disk Cleanup**.
+•  Next, check the box for **Delete Temporary Files**.
+•  Over on the right, click **Run Tweaks**.
+•  Give the tool a moment to clean.
+•  Wait until the bottom bar shows **Done**.
+
+Now that your storage is cleared, let's remove lagging window animations so your desktop feels instant.
+
+STEP 3: OPTIMIZE VISUAL EFFECTS FOR PERFORMANCE
+•  In the tweaks menu, find **Advanced Tweaks**.
+•  Look for the option labeled **Set Display for Performance**.
+•  Go ahead and check that box.
+•  Over on the right, click **Run Tweaks**.
+•  Wait for the process to complete.
+•  Your Windows animations are now fully optimized.
+
+Finally, let's unlock Windows 11's hidden power plan to run your processor at maximum speed.
+
+STEP 4: UNLOCK THE ULTIMATE PERFORMANCE PLAN
+•  Looking at the right-side panel, scroll down.
+•  Under Performance Plans, locate **Enable Ultimate Performance**.
+•  Click directly on **Enable Ultimate Performance**.
+•  The plan is now added to your system.
+•  Finally, close the tool and restart your PC.
+
+Your Windows 11 PC should now feel brand new, snappy, and noticeably faster across all your apps!
+
+Which tweak gave you the biggest speed boost? Let me know down in the comments below. Be sure to drop a like, subscribe for more Windows 11 optimization guides, and I'll catch you in the next one!

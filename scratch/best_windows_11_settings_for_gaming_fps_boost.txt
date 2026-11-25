@@ -1,0 +1,39 @@
+Want to get higher FPS and lower system latency on Windows 11 fast?
+
+In this video, I'll walk you through three essential Windows 11 settings that will instantly boost your gaming performance, so let's jump right in!
+
+STEP 1: TURN OFF CORE ISOLATION FOR MAXIMUM FPS
+•  First off, open your **Start menu**.
+•  From here, click into **Settings**.
+•  In the sidebar, select **Privacy & security**.
+•  Next, open up **Windows Security**.
+•  From the list, select **Device security**.
+•  Click directly on **Core isolation details**.
+•  Now turn the **Memory integrity** toggle off.
+•  Click on **Yes** to confirm the change.
+•  Lastly, restart your PC to boost performance.
+
+Now that your CPU has more breathing room, let's disable Windows background memory compression to squeeze out even more frames.
+
+STEP 2: DISABLE BACKGROUND MEMORY COMPRESSION AND SYSMAIN
+•  To start, right-click on the **Start button**.
+•  Select the option for **Terminal (Admin)**.
+•  On the security popup, click on **Yes**.
+•  Enter the command `Stop-Service SysMain -Force` and press **Enter**.
+•  Then enter `Set-Service SysMain -StartupType Disabled` and hit **Enter**.
+•  Now type `Disable-MMAgent -MemoryCompression` and hit **Enter**.
+•  From here, reboot your computer to lock changes.
+
+To squeeze every last drop of FPS out of your processor, let's unleash maximum CPU clock speeds.
+
+STEP 3: UNLOCK THE HIGH PERFORMANCE POWER PLAN
+•  First, right-click on your **Start button**.
+•  From the popup menu, select **Run**.
+•  Type in `powercfg.cpl` and hit **OK**.
+•  Click the arrow beside **Show additional plans**.
+•  From the list, select **High performance**.
+•  And finally, exit out of this menu.
+
+Your PC should now deliver noticeably higher frame rates and faster response times in all your games!
+
+You should see a noticeable boost in average FPS and much smoother 1% lows. How many extra frames did you gain? Let me know down in the comments. Don't forget to like and subscribe for more tech tips, and I'll catch you in the next one!

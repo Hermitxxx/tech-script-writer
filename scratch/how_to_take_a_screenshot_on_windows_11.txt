@@ -1,0 +1,48 @@
+If you need to take a screenshot on Windows 11, then in this video I'm gonna show you every single way to capture your screen quickly. So, let's get right into it!
+
+STEP 1: USE THE PRINT SCREEN KEY (SNIPPING TOOL)
+•  First, press the **PrtScn** key on your keyboard.
+•  A small toolbar will appear at the top.
+•  Choose the **Rectangle mode** icon to snip.
+•  Now, click and drag over the desired area.
+•  Release your mouse to capture the screenshot.
+•  Click on the notification banner that pops up.
+•  From here, click **Save** in the top-right.
+
+If you want to instantly save a full-screen screenshot without clicking any popups, this next shortcut is the fastest.
+
+STEP 2: INSTANTLY SAVE TO FOLDER (WIN + PRTSCN)
+•  First, hold down the **Windows key**.
+•  Now press the **PrtScn** key once.
+•  Notice your screen dims for a brief second.
+•  Open up your **File Explorer** on your taskbar.
+•  From the left sidebar, click on **Pictures**.
+•  Double-click right on the **Screenshots** folder.
+•  Your full-screen capture is saved right here.
+
+If you need to capture a drop-down menu that disappears, you can use the built-in Snipping Tool with a delay timer.
+
+STEP 3: USE THE SNIPPING TOOL APP WITH A TIMER
+•  First, click on your **Start button**.
+•  In the search bar, type **Snipping Tool**.
+•  Press the **Enter** key to open it.
+•  Click on the **Snip delay** clock icon.
+•  From the dropdown, choose **3 seconds delay**.
+•  Next, click on the **New** button.
+•  Open your menu before the timer runs out.
+•  Now drag your mouse to capture the menu.
+
+Finally, if you only want to screenshot a single active window without cropping your desktop background, here is a secret shortcut.
+
+STEP 4: CAPTURE ONLY THE ACTIVE WINDOW (ALT + PRTSCN)
+•  First, click on the window you want.
+•  Hold down the **Alt** key on keyboard.
+•  Now press the **PrtScn** key once.
+•  This copies only that window to clipboard.
+•  Next, open **Paint** or an email draft.
+•  Press **Ctrl** and **V** to paste.
+•  Your window image appears without the desktop background.
+
+You should now be able to capture any part of your screen in seconds!
+
+Which screenshot method do you find the most convenient? Let me know down in the comments below. Don't forget to hit like, subscribe for more daily Windows tips, and I'll catch you in the next one!

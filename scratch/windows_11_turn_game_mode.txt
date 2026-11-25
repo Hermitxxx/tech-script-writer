@@ -1,0 +1,17 @@
+If you want to optimize your PC for gaming, then in this video I'm gonna show you how to turn Game Mode on or off in Windows 11.
+So, let's get right into it!
+
+STEP 1: TURN GAME MODE ON OR OFF IN SETTINGS
+* First, press the windows key and " I " on your keyboard.
+* Next, from the left sidebar, click on **Gaming**.
+* Looking on the right, click on **Game Mode**.
+* Locate the toggle switch next to **Game Mode**.
+* Switch the toggle to **ON** to optimize gaming.
+* Or switch it to **OFF** to disable it.
+* When enabled, Windows prioritizes your hardware for games.
+* And stops background updates from interrupting your match.
+* And finally, close out of your **Settings** window.
+
+And that's how you can easily turn Game Mode on or off in Windows 11!
+Do you keep Game Mode turned on or off? Let me know down in the comments.
+If this video helped you out, please drop a like and subscribe for more easy tech guides. Thanks for watching, and I'll catch you in the next one!

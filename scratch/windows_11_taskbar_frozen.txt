@@ -1,0 +1,37 @@
+Is your Windows 11 taskbar suddenly frozen and won't respond to your clicks?
+Don't worry—in this video I'll show you a few quick step-by-step fixes, so let's get right into it!
+
+STEP 1: RESTART WINDOWS EXPLORER IN TASK MANAGER
+* First, right-click on your **Start button**.
+* From the menu, select **Task Manager**.
+* Once inside, ensure you're on the **Processes** tab.
+* Looking down the list, locate **Windows Explorer**.
+* Right-click directly on **Windows Explorer**.
+* From the context menu, select **Restart**.
+* Let's give your screen a moment to refresh.
+* And finally, test if your taskbar clicks work.
+
+Now, if restarting Windows Explorer didn't unfreeze your taskbar, corrupted system files might be causing the glitch, so let's run a system scan to fix them.
+
+STEP 2: RUN SYSTEM FILE CHECKER SCAN
+* First, right-click on your **Start button**.
+* From the menu, select **Terminal (Admin)**.
+* When prompted by User Account Control, click **Yes**.
+* Now, type " sfc /scannow " into the console.
+* Press Enter on your keyboard to run it.
+* Let's give the scan a few minutes to complete.
+* Once finished, restart your PC to apply repairs.
+* And check if your taskbar responds after rebooting.
+
+If your taskbar is still unresponsive or frozen, restarting the Windows input loader service will usually solve the problem immediately.
+
+STEP 3: RESTART THE WINDOWS CTF LOADER
+* First, press the windows key and " R " on your keyboard.
+* In the Run box, type " c:\windows\system32\ctfmon.exe ".
+* Go ahead and click on **OK**.
+* Let's wait a couple of seconds for it to start.
+* And finally, test your taskbar to ensure it works smoothly.
+
+And that's how you can easily fix a frozen taskbar in Windows 11!
+Which of these steps worked best for you? Let me know down in the comments.
+If this video helped you out, please drop a like and subscribe for more easy tech guides. Thanks for watching, and I'll catch you in the next one!

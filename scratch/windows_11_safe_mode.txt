@@ -1,0 +1,41 @@
+Need to access Safe Mode in Windows 11 even if your PC won't start?
+
+In this video, I'll show you how to easily boot into Safe Mode both from Settings and when your computer won't boot at all, so let's get right into it!
+
+STEP 1: BOOT INTO SAFE MODE FROM SETTINGS
+•  First, right-click on your **Start button**.
+•  Next, click right on **Settings**.
+•  From the left menu, click on **System**.
+•  Now scroll down and select **Recovery**.
+•  Looking down the list, find **Advanced startup**.
+•  Right beside it, click on **Restart now**.
+•  When prompted, click on **Restart now** again.
+•  Give your computer a few moments to restart.
+•  On the blue screen, click on **Troubleshoot**.
+•  From here, select **Advanced options**.
+•  Next up, click on **Startup Settings**.
+•  Down at the bottom, click on **Restart**.
+•  Now press the number " 4 " on your keyboard.
+•  Finally, let your PC boot into **Safe Mode**.
+
+If your computer won't boot into Windows at all, don't worry—follow this next step to trigger Safe Mode directly from startup.
+
+STEP 2: BOOT INTO SAFE MODE WHEN WINDOWS WON'T START
+•  First, press the **power button** to start your PC.
+•  As the logo appears, hold down the **power button**.
+•  Keep holding it until your computer completely powers off.
+•  Next, press the **power button** to turn it back on.
+•  As it starts loading, hold the **power button** again.
+•  Repeat this one more time to trigger three forced shutdowns.
+•  Now turn your computer on and let it load.
+•  When the blue screen appears, click on **Advanced options**.
+•  On the next menu, click on **Troubleshoot**.
+•  From here, select **Advanced options**.
+•  Next up, click on **Startup Settings**.
+•  Down at the bottom, click on **Restart**.
+•  Now press the number " 4 " on your keyboard.
+•  Finally, let your PC boot into **Safe Mode**.
+
+If your PC still won't boot even in Safe Mode, you may need to use a bootable USB recovery drive to repair your installation.
+
+Otherwise, your computer should now be running in Safe Mode so you can troubleshoot! Which method worked for you? Let me know down in the comments. Drop a like, subscribe for more quick guides, and I'll catch you in the next one!

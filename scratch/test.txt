@@ -1,0 +1,4 @@
+STEP 1: TEST
+•  First, type **Stop-Service SysMain -Force** and hit Enter.
+•  Next, type **Set-Service SysMain -StartupType Disabled** and press Enter.
+•  Finally, type **Disable-MMAgent -MemoryCompression** and hit Enter.

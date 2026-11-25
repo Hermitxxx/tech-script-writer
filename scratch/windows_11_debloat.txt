@@ -1,0 +1,26 @@
+If your Windows 11 PC is cluttered with annoying bloatware and background apps, then in this video I'm gonna show you how to safely debloat it in just two quick steps. So, let's get right into it!
+
+STEP 1: LAUNCH CHRIS TITUS TECH UTILITY
+•  First, right-click on your **Start button**.
+•  From the menu, select **Terminal (Admin)**.
+•  When prompted by Windows, click on **Yes**.
+•  Type **irm christitus.com/win | iex** and press Enter.
+•  Give the tool a few moments to download.
+•  The **Chris Titus Tech** tool will now open.
+
+Now that the utility is open, let's remove unwanted bloatware and pre-installed apps without breaking your operating system.
+
+STEP 2: SAFELY UNINSTALL BLOATWARE APPS
+•  First, make sure you're on the **Install** tab.
+•  Next, find the application you want to uninstall.
+•  For this example, let's locate **Edge** under Browsers.
+•  Now right-click directly on the **Edge** tile.
+•  From the menu, click on **Uninstall**.
+•  You can also click **Uninstall Applications** on the left.
+•  Give the utility a few moments to remove it.
+•  Wait until the bottom bar shows **Uninstall finished**.
+•  Finally, close out of the tool.
+
+If you ever want to revert any tweaks, you can simply reopen the utility and restore your default settings.
+
+Otherwise, your Windows 11 PC should now run significantly faster, cleaner, and completely bloat-free! Did this speed up your computer? Let me know down in the comments. Drop a like, subscribe for more PC optimization tutorials, and I'll catch you in the next one!

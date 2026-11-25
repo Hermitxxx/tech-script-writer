@@ -1,10 +1,10 @@
 {
-    "mcpServers": {
-        "n8n-mcp": {
-            "url": "http://localhost:5678/mcp-server/http",
-            "headers": {
-                "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJiODMyZjI3ZC0yOTMwLTQ4MzUtOWUxYS0zZmY1YjVkYjA4MjYiLCJpc3MiOiJuOG4iLCJqdGkiOiI0OWE1NjExNy05ZWNjLTQxMTAtYmJhZC1lOTcyMmVjOGM2NTIiLCJpYXQiOjE3OTQzODA0MTUsImF1ZCI6Im1jcC1zZXJ2ZXItYXBpIn0.FONR24uqBvqnlbKebL7_h6tTsP6TDur62dkS0oJgBtw"
-            }
-        }
+  "mcpServers": {
+    "n8n-mcp": {
+      "url": "http://localhost:5678/mcp-server/http",
+      "headers": {
+        "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1YzU5MmEyMC0wOWMyLTQ4MjItOWIzNy02ZTgwNGNiMDE0ZTMiLCJpc3MiOiJuOG4iLCJqdGkiOiJmMTRkODQ0YS1hMGUyLTRhYjQtOTU2MC1iZmI3ZTRkZDMwNDQiLCJpYXQiOjE3OTQ4MTU2NjEsImF1ZCI6Im1jcC1zZXJ2ZXItYXBpIn0.AvVG5I9ujiLyfeS6kC6VRtz7IaLuSI2r-rPPx1pnnYg"
+      }
     }
+  }
 }

@@ -1,0 +1,30 @@
+Want to add a new keyboard language and switch layouts on Windows 11 fast?
+
+In this video, I'll show you the exact step-by-step method to install any language and switch between them instantly, so let's jump right in!
+
+STEP 1: ADD A NEW KEYBOARD LANGUAGE
+•  First, right-click on your **Start button**.
+•  From the menu, click right on **Settings**.
+•  In the sidebar, select **Time & language**.
+•  Next, click directly on **Language & region**.
+•  Beside Preferred languages, click **Add a language**.
+•  In the search box, type your language.
+•  Select your language from the search results.
+•  Down at the bottom, click on **Next**.
+•  Now, click right on **Install**.
+•  Give Windows a few moments to install.
+
+Now that your new language is installed, let's look at how to quickly switch between keyboards while typing.
+
+STEP 2: SWITCH BETWEEN KEYBOARD LANGUAGES
+•  Look at the bottom-right of your taskbar.
+•  Click on your **language abbreviation** icon.
+•  From the list, select your new keyboard.
+•  Alternatively, hold down the **Windows key**.
+•  Tap the **Spacebar** to cycle between languages.
+•  Your keyboard is now ready for typing.
+•  Finally, close out of your **Settings** app.
+
+And that's how you can easily add another keyboard language on Windows 11!
+
+Which language did you add to your system? Let me know down in the comments below. If this video helped you out, please drop a like and subscribe for more easy tech guides. Thanks for watching, and I'll catch you in the next one!

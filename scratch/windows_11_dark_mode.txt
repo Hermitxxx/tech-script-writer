@@ -1,0 +1,25 @@
+If you want to turn on dark mode everywhere on Windows 11, then in this video I'm gonna show you how to enable it system-wide in just a few clicks. So, let's get right into it!
+
+STEP 1: TURN ON SYSTEM-WIDE DARK MODE
+•  First, right-click anywhere on your desktop.
+•  From the menu, select **Personalize**.
+•  Looking down the list, click on **Colors**.
+•  Locate the setting labeled **Choose your mode**.
+•  Click on the drop-down menu beside it.
+•  From the list, go ahead and select **Dark**.
+•  Your entire Windows system instantly turns dark.
+
+Now, if you want your taskbar dark but prefer keeping your documents and apps bright, follow this next step.
+
+STEP 2: CUSTOMIZE MODES FOR APPS AND WINDOWS
+•  Click on that same drop-down menu again.
+•  From the options, choose **Custom**.
+•  Locate **Choose your default Windows mode**.
+•  Select **Dark** to keep your taskbar dark.
+•  Now locate **Choose your default app mode**.
+•  Set your apps to **Dark** or **Light**.
+•  Finally, close out of your **Settings** app.
+
+If this guide helped you out, hit that like button and subscribe for more fast Windows 11 tips.
+
+Thanks for watching, and I'll catch you in the next one!

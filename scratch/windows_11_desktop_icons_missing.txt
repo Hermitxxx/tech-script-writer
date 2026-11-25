@@ -1,0 +1,41 @@
+Are your Windows 11 desktop icons suddenly missing and won't show up?
+Don't worry—in this video I'll show you a few quick step-by-step fixes, so let's get right into it!
+
+STEP 1: UNHIDE DESKTOP ICONS IN VIEW SETTINGS
+* First, right-click on any empty space on your desktop.
+* Next, hover your cursor right over **View**.
+* From the submenu, click on **Show desktop icons**.
+* And finally, check if your desktop icons pop right up.
+
+Now, if your icons are still not showing up, your default system shortcuts might be turned off in Windows settings, so let's restore them next.
+
+STEP 2: RESTORE DEFAULT DESKTOP ICONS
+* First, open up your Windows **Settings** app.
+* From the left menu, click on **Personalization**.
+* Next, scroll down and select the **Themes** tile.
+* Under related settings, click on **Desktop icon settings**.
+* From the popup window, click on **Restore Default**.
+* Go ahead and click on **Apply**.
+* And then click on **OK** to save your changes.
+* Finally, check your desktop to see if your icons appear.
+
+Still missing some shortcuts? That means your Windows icon cache has gotten corrupted, so let's delete that cache file to rebuild a fresh one.
+
+STEP 3: CLEAR CORRUPTED ICON CACHE VIA RUN
+* First, press the windows key and " R " on your keyboard.
+* In the Run box, type " appdata " and press Enter.
+* Next, double-click right into the **Local** folder.
+* From the top menu, click on **View**.
+* Hover your cursor right over **Show**.
+* Click on **Hidden items** to check the box.
+* Now scroll all the way to the bottom.
+* Locate the file named **IconCache.db**.
+* Right-click on **IconCache.db** and select **Delete**.
+* Next, right-click on your **Start button**.
+* From the menu, select **Task Manager**.
+* In the process list, locate **Windows Explorer**.
+* And finally, click on **Restart task** in the top-right corner.
+
+Your Windows 11 desktop icons and shortcuts should now be completely back to normal!
+Which of these steps brought your icons back? Let me know down in the comments.
+Make sure to like and subscribe for more easy tech guides. Thanks for watching, and see you next time!

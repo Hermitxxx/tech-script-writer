@@ -1,0 +1,49 @@
+Is your Windows 11 network adapter suddenly missing from Device Manager and you have no internet?
+Don't worry—I've got a quick step-by-step fix that'll restore your adapter in just a couple of minutes.
+So let's get started!
+
+STEP 1: ADD LEGACY NETWORK ADAPTER DRIVER
+* First, right-click on your **Start button**.
+* From the menu, select **Device Manager**.
+* Once inside, click on **Network adapters**.
+* From the top menu bar, click on **Action**.
+* Next, select **Add legacy hardware**.
+* When the wizard appears, click on **Next**.
+* Select **Install the hardware that I manually select from a list**.
+* Now go ahead and click on **Next**.
+* Looking down the list, select **Network adapters**.
+* Click on **Next** to continue.
+* From the left list, select your **Manufacturer**.
+* On the right list, select your **Model**.
+* Click on **Next** to begin installation.
+* Click on **Next** once more to confirm.
+* And finally, click on **Finish** to close.
+
+Now, if adding the legacy driver didn't bring your network adapter back, your Windows network socket might be corrupted, so let's reset it using Command Prompt.
+
+STEP 2: RESET WINSOCK AND TCP/IP STACK
+* First, click on your **Start button**.
+* Type " cmd " into the search box.
+* Right-click right on **Command Prompt**.
+* From the menu, select **Run as administrator**.
+* When prompted, click on **Yes** to confirm.
+* Type " netsh winsock reset " into the window.
+* Press Enter on your keyboard to run it.
+* Next, restart your PC to apply the reset.
+* And finally, check if your network adapter appears.
+
+Still not seeing your network adapter in the list? Let's perform a full network reset in Windows settings to reinstall all network components from scratch.
+
+STEP 3: PERFORM A FULL NETWORK RESET
+* First, press the windows key and " I " on your keyboard.
+* Next, from the left menu, click on **Network & internet**.
+* Scroll down and click on **Advanced network settings**.
+* Under more settings, select **Network reset**.
+* Now click right on the **Reset now** button.
+* When the prompt appears, click on **Yes**.
+* Let's give your PC a few moments to restart.
+* And finally, check **Device Manager** for your adapter.
+
+If none of these software solutions restored your network adapter, it's most likely an internal hardware failure with your Wi-Fi card or motherboard, so you'll want to contact support for a hardware repair.
+Otherwise, your network adapter and internet connection should now be completely back to normal!
+Drop a like if this saved your day, subscribe for more quick fixes, and I'll catch you in the next video!
